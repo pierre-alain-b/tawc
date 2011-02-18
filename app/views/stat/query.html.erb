@@ -1,0 +1,23 @@
+<h1>Stat#query</h1>
+
+<% unless @errors.blank? %>
+	<ul>
+		<% for error in @errors %>
+			<li><p><%= h(error) %></p></li>
+		<% end %>
+	</ul>
+<% end %>
+
+<%= form_tag :action=>'query' do %>
+	Start date: <%= select_tag(:min_date, options_for_select(1980..Time.now.year, params[:min_date])) %>
+	End date: <%= select_tag(:max_date, options_for_select(1980..Time.now.year, params[:max_date])) %>
+	Query: <%= text_field_tag(:terms, params[:terms], :size=>10) %>
+	<%= submit_tag %>
+<% end %>
+
+<script type="text/javascript" src="/javascripts/swfobject.js"></script>
+
+<% unless @graph.nil? %>
+		<%= @graph.html_safe %>
+<% end %>
+

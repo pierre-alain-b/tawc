@@ -1,0 +1,482 @@
+1297975187
+Anchor	/home/www/tawc/vendor/plugins/open_flash_chart/lib/open_flash_chart/dot_base.rb	  class Anchor 
+Application	/home/www/tawc/config/application.rb	  class Application 
+ApplicationController	/home/www/tawc/app/controllers/application_controller.rb	class ApplicationController 
+ApplicationHelper	/home/www/tawc/app/helpers/application_helper.rb	module ApplicationHelper
+AreaBase	/home/www/tawc/vendor/plugins/open_flash_chart/lib/open_flash_chart/area_base.rb	  class AreaBase 
+AreaHollow	/home/www/tawc/vendor/plugins/open_flash_chart/lib/open_flash_chart/area_hollow.rb	  class AreaHollow 
+AreaLine	/home/www/tawc/vendor/plugins/open_flash_chart/lib/open_flash_chart/area_line.rb	  class AreaLine 
+AreaLine	/home/www/tawc/vendor/plugins/open_flash_chart/lib/open_flash_chart/arrow.rb	  class AreaLine
+Bar	/home/www/tawc/vendor/plugins/open_flash_chart/lib/open_flash_chart/bar.rb	  class Bar 
+Bar3d	/home/www/tawc/vendor/plugins/open_flash_chart/lib/open_flash_chart/bar_3d.rb	  class Bar3d 
+Bar3dValue	/home/www/tawc/vendor/plugins/open_flash_chart/lib/open_flash_chart/bar_3d.rb	  class Bar3dValue 
+BarBase	/home/www/tawc/vendor/plugins/open_flash_chart/lib/open_flash_chart/bar_base.rb	  class BarBase 
+BarCylinder	/home/www/tawc/vendor/plugins/open_flash_chart/lib/open_flash_chart/bar_glass.rb	  class BarCylinder 
+BarCylinderOutline	/home/www/tawc/vendor/plugins/open_flash_chart/lib/open_flash_chart/bar_glass.rb	  class BarCylinderOutline 
+BarDome	/home/www/tawc/vendor/plugins/open_flash_chart/lib/open_flash_chart/bar_glass.rb	  class BarDome 
+BarFilled	/home/www/tawc/vendor/plugins/open_flash_chart/lib/open_flash_chart/bar_filled.rb	  class BarFilled 
+BarFilledValue	/home/www/tawc/vendor/plugins/open_flash_chart/lib/open_flash_chart/bar_filled.rb	  class BarFilledValue 
+BarGlass	/home/www/tawc/vendor/plugins/open_flash_chart/lib/open_flash_chart/bar_glass.rb	  class BarGlass 
+BarGlassValue	/home/www/tawc/vendor/plugins/open_flash_chart/lib/open_flash_chart/bar_glass.rb	  class BarGlassValue 
+BarOnShow	/home/www/tawc/vendor/plugins/open_flash_chart/lib/open_flash_chart/bar_glass.rb	  class BarOnShow 
+BarRound	/home/www/tawc/vendor/plugins/open_flash_chart/lib/open_flash_chart/bar_glass.rb	  class BarRound 
+BarRound3d	/home/www/tawc/vendor/plugins/open_flash_chart/lib/open_flash_chart/bar_glass.rb	  class BarRound3d 
+BarRoundedGlass	/home/www/tawc/vendor/plugins/open_flash_chart/lib/open_flash_chart/bar_glass.rb	  class BarRoundedGlass 
+BarSketch	/home/www/tawc/vendor/plugins/open_flash_chart/lib/open_flash_chart/bar_sketch.rb	  class BarSketch 
+BarStack	/home/www/tawc/vendor/plugins/open_flash_chart/lib/open_flash_chart/bar_stack.rb	  class BarStack 
+BarStackKey	/home/www/tawc/vendor/plugins/open_flash_chart/lib/open_flash_chart/bar_stack.rb	  class BarStackKey 
+BarStackValue	/home/www/tawc/vendor/plugins/open_flash_chart/lib/open_flash_chart/bar_stack.rb	  class BarStackValue 
+BarValue	/home/www/tawc/vendor/plugins/open_flash_chart/lib/open_flash_chart/bar.rb	  class BarValue 
+Base	/home/www/tawc/vendor/plugins/open_flash_chart/lib/open_flash_chart/base.rb	  class Base
+BasePieAnimation	/home/www/tawc/vendor/plugins/open_flash_chart/lib/open_flash_chart/pie.rb	  class BasePieAnimation 
+Bow	/home/www/tawc/vendor/plugins/open_flash_chart/lib/open_flash_chart/dot_base.rb	  class Bow 
+BrowsingTest	/home/www/tawc/test/performance/browsing_test.rb	class BrowsingTest 
+Candle	/home/www/tawc/vendor/plugins/open_flash_chart/lib/open_flash_chart/candle.rb	  class Candle 
+CandleValue	/home/www/tawc/vendor/plugins/open_flash_chart/lib/open_flash_chart/candle.rb	  class CandleValue 
+Chart	/home/www/tawc/vendor/plugins/open_flash_chart/lib/open_flash_chart/chart.rb	  class Chart 
+Controller	/home/www/tawc/vendor/plugins/open_flash_chart/lib/open_flash_chart/open_flash_chart_object.rb	  module Controller
+Dot	/home/www/tawc/vendor/plugins/open_flash_chart/lib/open_flash_chart/dot_base.rb	  class Dot 
+DotBase	/home/www/tawc/vendor/plugins/open_flash_chart/lib/open_flash_chart/dot_base.rb	  class DotBase 
+DotValue	/home/www/tawc/vendor/plugins/open_flash_chart/lib/open_flash_chart/line_dot.rb	  class DotValue 
+HBar	/home/www/tawc/vendor/plugins/open_flash_chart/lib/open_flash_chart/h_bar.rb	  class HBar 
+HBarValue	/home/www/tawc/vendor/plugins/open_flash_chart/lib/open_flash_chart/h_bar.rb	  class HBarValue 
+HollowDot	/home/www/tawc/vendor/plugins/open_flash_chart/lib/open_flash_chart/dot_base.rb	  class HollowDot 
+Legend	/home/www/tawc/vendor/plugins/open_flash_chart/lib/open_flash_chart/legend.rb	  class Legend 
+Line	/home/www/tawc/vendor/plugins/open_flash_chart/lib/open_flash_chart/line.rb	  class Line 
+LineBase	/home/www/tawc/vendor/plugins/open_flash_chart/lib/open_flash_chart/line_base.rb	  class LineBase 
+LineDot	/home/www/tawc/vendor/plugins/open_flash_chart/lib/open_flash_chart/line_dot.rb	  class LineDot 
+LineHollow	/home/www/tawc/vendor/plugins/open_flash_chart/lib/open_flash_chart/line_hollow.rb	  class LineHollow 
+LineOnShow	/home/www/tawc/vendor/plugins/open_flash_chart/lib/open_flash_chart/line.rb	  class LineOnShow 
+LineStyle	/home/www/tawc/vendor/plugins/open_flash_chart/lib/open_flash_chart/line_style.rb	  class LineStyle 
+LinearRegression	/home/www/tawc/vendor/plugins/open_flash_chart/lib/open_flash_chart/linear_regression.rb	class LinearRegression
+Menu	/home/www/tawc/vendor/plugins/open_flash_chart/lib/open_flash_chart/menu.rb	  class Menu 
+MenuItem	/home/www/tawc/vendor/plugins/open_flash_chart/lib/open_flash_chart/menu.rb	  class MenuItem 
+MenuItemCamera	/home/www/tawc/vendor/plugins/open_flash_chart/lib/open_flash_chart/menu.rb	  class MenuItemCamera 
+OFCTag	/home/www/tawc/vendor/plugins/open_flash_chart/lib/open_flash_chart/tags.rb	  class OFCTag 
+OFCTags	/home/www/tawc/vendor/plugins/open_flash_chart/lib/open_flash_chart/tags.rb	  class OFCTags 
+OpenFlashChart	/home/www/tawc/vendor/plugins/open_flash_chart/lib/open_flash_chart/area_base.rb	module OpenFlashChart
+OpenFlashChart	/home/www/tawc/vendor/plugins/open_flash_chart/lib/open_flash_chart/area_hollow.rb	module OpenFlashChart
+OpenFlashChart	/home/www/tawc/vendor/plugins/open_flash_chart/lib/open_flash_chart/area_line.rb	module OpenFlashChart
+OpenFlashChart	/home/www/tawc/vendor/plugins/open_flash_chart/lib/open_flash_chart/arrow.rb	module OpenFlashChart
+OpenFlashChart	/home/www/tawc/vendor/plugins/open_flash_chart/lib/open_flash_chart/bar.rb	module OpenFlashChart
+OpenFlashChart	/home/www/tawc/vendor/plugins/open_flash_chart/lib/open_flash_chart/bar_3d.rb	module OpenFlashChart
+OpenFlashChart	/home/www/tawc/vendor/plugins/open_flash_chart/lib/open_flash_chart/bar_base.rb	module OpenFlashChart
+OpenFlashChart	/home/www/tawc/vendor/plugins/open_flash_chart/lib/open_flash_chart/bar_filled.rb	module OpenFlashChart
+OpenFlashChart	/home/www/tawc/vendor/plugins/open_flash_chart/lib/open_flash_chart/bar_glass.rb	module OpenFlashChart
+OpenFlashChart	/home/www/tawc/vendor/plugins/open_flash_chart/lib/open_flash_chart/bar_sketch.rb	module OpenFlashChart
+OpenFlashChart	/home/www/tawc/vendor/plugins/open_flash_chart/lib/open_flash_chart/bar_stack.rb	module OpenFlashChart
+OpenFlashChart	/home/www/tawc/vendor/plugins/open_flash_chart/lib/open_flash_chart/base.rb	module OpenFlashChart
+OpenFlashChart	/home/www/tawc/vendor/plugins/open_flash_chart/lib/open_flash_chart/candle.rb	module OpenFlashChart
+OpenFlashChart	/home/www/tawc/vendor/plugins/open_flash_chart/lib/open_flash_chart/chart.rb	  class OpenFlashChart 
+OpenFlashChart	/home/www/tawc/vendor/plugins/open_flash_chart/lib/open_flash_chart/chart.rb	module OpenFlashChart
+OpenFlashChart	/home/www/tawc/vendor/plugins/open_flash_chart/lib/open_flash_chart/dot_base.rb	module OpenFlashChart
+OpenFlashChart	/home/www/tawc/vendor/plugins/open_flash_chart/lib/open_flash_chart/h_bar.rb	module OpenFlashChart
+OpenFlashChart	/home/www/tawc/vendor/plugins/open_flash_chart/lib/open_flash_chart/legend.rb	module OpenFlashChart
+OpenFlashChart	/home/www/tawc/vendor/plugins/open_flash_chart/lib/open_flash_chart/line.rb	module OpenFlashChart
+OpenFlashChart	/home/www/tawc/vendor/plugins/open_flash_chart/lib/open_flash_chart/line_base.rb	module OpenFlashChart
+OpenFlashChart	/home/www/tawc/vendor/plugins/open_flash_chart/lib/open_flash_chart/line_dot.rb	module OpenFlashChart
+OpenFlashChart	/home/www/tawc/vendor/plugins/open_flash_chart/lib/open_flash_chart/line_hollow.rb	module OpenFlashChart
+OpenFlashChart	/home/www/tawc/vendor/plugins/open_flash_chart/lib/open_flash_chart/line_style.rb	module OpenFlashChart
+OpenFlashChart	/home/www/tawc/vendor/plugins/open_flash_chart/lib/open_flash_chart/menu.rb	module OpenFlashChart
+OpenFlashChart	/home/www/tawc/vendor/plugins/open_flash_chart/lib/open_flash_chart/ofc_ajax.rb	module OpenFlashChart
+OpenFlashChart	/home/www/tawc/vendor/plugins/open_flash_chart/lib/open_flash_chart/open_flash_chart_object.rb	module OpenFlashChart
+OpenFlashChart	/home/www/tawc/vendor/plugins/open_flash_chart/lib/open_flash_chart/pie.rb	module OpenFlashChart
+OpenFlashChart	/home/www/tawc/vendor/plugins/open_flash_chart/lib/open_flash_chart/radar_axis.rb	module OpenFlashChart
+OpenFlashChart	/home/www/tawc/vendor/plugins/open_flash_chart/lib/open_flash_chart/radar_axis_labels.rb	module OpenFlashChart
+OpenFlashChart	/home/www/tawc/vendor/plugins/open_flash_chart/lib/open_flash_chart/radar_spoke_labels.rb	module OpenFlashChart
+OpenFlashChart	/home/www/tawc/vendor/plugins/open_flash_chart/lib/open_flash_chart/scatter.rb	module OpenFlashChart
+OpenFlashChart	/home/www/tawc/vendor/plugins/open_flash_chart/lib/open_flash_chart/scatter_line.rb	module OpenFlashChart
+OpenFlashChart	/home/www/tawc/vendor/plugins/open_flash_chart/lib/open_flash_chart/shape.rb	module OpenFlashChart
+OpenFlashChart	/home/www/tawc/vendor/plugins/open_flash_chart/lib/open_flash_chart/sugar.rb	module OpenFlashChart
+OpenFlashChart	/home/www/tawc/vendor/plugins/open_flash_chart/lib/open_flash_chart/tags.rb	module OpenFlashChart
+OpenFlashChart	/home/www/tawc/vendor/plugins/open_flash_chart/lib/open_flash_chart/title.rb	module OpenFlashChart
+OpenFlashChart	/home/www/tawc/vendor/plugins/open_flash_chart/lib/open_flash_chart/tooltip.rb	module OpenFlashChart
+OpenFlashChart	/home/www/tawc/vendor/plugins/open_flash_chart/lib/open_flash_chart/x_axis.rb	module OpenFlashChart
+OpenFlashChart	/home/www/tawc/vendor/plugins/open_flash_chart/lib/open_flash_chart/x_axis_label.rb	module OpenFlashChart
+OpenFlashChart	/home/www/tawc/vendor/plugins/open_flash_chart/lib/open_flash_chart/x_axis_labels.rb	module OpenFlashChart
+OpenFlashChart	/home/www/tawc/vendor/plugins/open_flash_chart/lib/open_flash_chart/x_legend.rb	module OpenFlashChart
+OpenFlashChart	/home/www/tawc/vendor/plugins/open_flash_chart/lib/open_flash_chart/y_axis.rb	module OpenFlashChart
+OpenFlashChart	/home/www/tawc/vendor/plugins/open_flash_chart/lib/open_flash_chart/y_axis_base.rb	module OpenFlashChart
+OpenFlashChart	/home/www/tawc/vendor/plugins/open_flash_chart/lib/open_flash_chart/y_axis_label.rb	module OpenFlashChart
+OpenFlashChart	/home/www/tawc/vendor/plugins/open_flash_chart/lib/open_flash_chart/y_axis_labels.rb	module OpenFlashChart
+OpenFlashChart	/home/www/tawc/vendor/plugins/open_flash_chart/lib/open_flash_chart/y_axis_right.rb	module OpenFlashChart
+OpenFlashChart	/home/www/tawc/vendor/plugins/open_flash_chart/lib/open_flash_chart/y_legend.rb	module OpenFlashChart
+OpenFlashChart	/home/www/tawc/vendor/plugins/open_flash_chart/lib/open_flash_chart/y_legend_right.rb	module OpenFlashChart
+OpenFlashChartTest	/home/www/tawc/vendor/plugins/open_flash_chart/test/open_flash_chart_test.rb	class OpenFlashChartTest 
+Pie	/home/www/tawc/vendor/plugins/open_flash_chart/lib/open_flash_chart/pie.rb	  class Pie 
+PieBounce	/home/www/tawc/vendor/plugins/open_flash_chart/lib/open_flash_chart/pie.rb	  class PieBounce 
+PieFade	/home/www/tawc/vendor/plugins/open_flash_chart/lib/open_flash_chart/pie.rb	  class PieFade 
+PieValue	/home/www/tawc/vendor/plugins/open_flash_chart/lib/open_flash_chart/pie.rb	  class PieValue 
+RadarAxis	/home/www/tawc/vendor/plugins/open_flash_chart/lib/open_flash_chart/radar_axis.rb	  class RadarAxis 
+RadarAxisLabels	/home/www/tawc/vendor/plugins/open_flash_chart/lib/open_flash_chart/radar_axis_labels.rb	  class RadarAxisLabels 
+RadarSpokeLabels	/home/www/tawc/vendor/plugins/open_flash_chart/lib/open_flash_chart/radar_spoke_labels.rb	  class RadarSpokeLabels 
+S	/home/www/tawc/public/javascripts/swfobject.js	function S(){if(J.readyState=="complete"){J.parentNode.removeChild(J);E()}}function E(){if(e){return }if(h.ie&&h.win){var v=a("span");try{var u=K.getElementsByTagName("body")[0].appendChild(v);u.parentNode.removeChild(u)}catch(w){return }}e=true;if(Z){clearInterval(Z);Z=null}var q=o.length;for(var r=0;r<q;r++){o[r]()}}function f(q){if(e){q()}else{o[o.length]=q}}function R(r){if(typeof j.addEventListener!=b){j.addEventListener("load",r,false)}else{if(typeof K.addEventListener!=b){K.addEventListener("load",r,false)}else{if(typeof j.attachEvent!=b){I(j,"onload",r)}else{if(typeof j.onload=="function"){var q=j.onload;j.onload=function(){q();r()}}else{j.onload=r}}}}}function H(){var t=N.length;for(var q=0;q<t;q++){var u=N[q].id;if(h.pv[0]>0){var r=C(u);if(r){N[q].width=r.getAttribute("width")?r.getAttribute("width"):"0";N[q].height=r.getAttribute("height")?r.getAttribute("height"):"0";if(c(N[q].swfVersion)){if(h.webkit&&h.webkit<312){Y(r)}W(u,true)}else{if(N[q].expressInstall&&!A&&c("6.0.65")&&(h.win||h.mac)){k(N[q])}else{O(r)}}}}else{W(u,true)}}}function Y(t){var q=t.getElementsByTagName(Q)[0];if(q){var w=a("embed"),y=q.attributes;if(y){var v=y.length;for(var u=0;u<v;u++){if(y[u].nodeName=="DATA"){w.setAttribute("src",y[u].nodeValue)}else{w.setAttribute(y[u].nodeName,y[u].nodeValue)}}}var x=q.childNodes;if(x){var z=x.length;for(var r=0;r<z;r++){if(x[r].nodeType==1&&x[r].nodeName=="PARAM"){w.setAttribute(x[r].getAttribute("name"),x[r].getAttribute("value"))}}}t.parentNode.replaceChild(w,t)}}function k(w){A=true;var u=C(w.id);if(u){if(w.altContentId){var y=C(w.altContentId);if(y){M=y;l=w.altContentId}}else{M=G(u)}if(!(/%$/.test(w.width))&&parseInt(w.width,10)<310){w.width="310"}if(!(/%$/.test(w.height))&&parseInt(w.height,10)<137){w.height="137"}K.title=K.title.slice(0,47)+" - Flash Player Installation";var z=h.ie&&h.win?"ActiveX":"PlugIn",q=K.title,r="MMredirectURL="+j.location+"&MMplayerType="+z+"&MMdoctitle="+q,x=w.id;if(h.ie&&h.win&&u.readyState!=4){var t=a("div");x+="SWFObjectNew";t.setAttribute("id",x);u.parentNode.insertBefore(t,u);u.style.display="none";var v=function(){u.parentNode.removeChild(u)};I(j,"onload",v)}U({data:w.expressInstall,id:m,width:w.width,height:w.height},{flashvars:r},x)}}function O(t){if(h.ie&&h.win&&t.readyState!=4){var r=a("div");t.parentNode.insertBefore(r,t);r.parentNode.replaceChild(G(t),r);t.style.display="none";var q=function(){t.parentNode.removeChild(t)};I(j,"onload",q)}else{t.parentNode.replaceChild(G(t),t)}}function G(v){var u=a("div");if(h.win&&h.ie){u.innerHTML=v.innerHTML}else{var r=v.getElementsByTagName(Q)[0];if(r){var w=r.childNodes;if(w){var q=w.length;for(var t=0;t<q;t++){if(!(w[t].nodeType==1&&w[t].nodeName=="PARAM")&&!(w[t].nodeType==8)){u.appendChild(w[t].cloneNode(true))}}}}}return u}function U(AG,AE,t){var q,v=C(t);if(v){if(typeof AG.id==b){AG.id=t}if(h.ie&&h.win){var AF="";for(var AB in AG){if(AG[AB]!=Object.prototype[AB]){if(AB.toLowerCase()=="data"){AE.movie=AG[AB]}else{if(AB.toLowerCase()=="styleclass"){AF+=' class="'+AG[AB]+'"'}else{if(AB.toLowerCase()!="classid"){AF+=" "+AB+'="'+AG[AB]+'"'}}}}}var AD="";for(var AA in AE){if(AE[AA]!=Object.prototype[AA]){AD+='<param name="'+AA+'" value="'+AE[AA]+'" />'}}v.outerHTML='<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000"'+AF+">"+AD+"</object>";i[i.length]=AG.id;q=C(AG.id)}else{if(h.webkit&&h.webkit<312){var AC=a("embed");AC.setAttribute("type",P);for(var z in AG){if(AG[z]!=Object.prototype[z]){if(z.toLowerCase()=="data"){AC.setAttribute("src",AG[z])}else{if(z.toLowerCase()=="styleclass"){AC.setAttribute("class",AG[z])}else{if(z.toLowerCase()!="classid"){AC.setAttribute(z,AG[z])}}}}}for(var y in AE){if(AE[y]!=Object.prototype[y]){if(y.toLowerCase()!="movie"){AC.setAttribute(y,AE[y])}}}v.parentNode.replaceChild(AC,v);q=AC}else{var u=a(Q);u.setAttribute("type",P);for(var x in AG){if(AG[x]!=Object.prototype[x]){if(x.toLowerCase()=="styleclass"){u.setAttribute("class",AG[x])}else{if(x.toLowerCase()!="classid"){u.setAttribute(x,AG[x])}}}}for(var w in AE){if(AE[w]!=Object.prototype[w]&&w.toLowerCase()!="movie"){F(u,w,AE[w])}}v.parentNode.replaceChild(u,v);q=u}}}return q}function F(t,q,r){var u=a("param");u.setAttribute("name",q);u.setAttribute("value",r);t.appendChild(u)}function X(r){var q=C(r);if(q&&(q.nodeName=="OBJECT"||q.nodeName=="EMBED")){if(h.ie&&h.win){if(q.readyState==4){B(r)}else{j.attachEvent("onload",function(){B(r)})}}else{q.parentNode.removeChild(q)}}}function B(t){var r=C(t);if(r){for(var q in r){if(typeof r[q]=="function"){r[q]=null}}r.parentNode.removeChild(r)}}function C(t){var q=null;try{q=K.getElementById(t)}catch(r){}return q}function a(q){return K.createElement(q)}function I(t,q,r){t.attachEvent(q,r);d[d.length]=[t,q,r]}function c(t){var r=h.pv,q=t.split(".");q[0]=parseInt(q[0],10);q[1]=parseInt(q[1],10)||0;q[2]=parseInt(q[2],10)||0;return(r[0]>q[0]||(r[0]==q[0]&&r[1]>q[1])||(r[0]==q[0]&&r[1]==q[1]&&r[2]>=q[2]))?true:false}function V(v,r){if(h.ie&&h.mac){return }var u=K.getElementsByTagName("head")[0],t=a("style");t.setAttribute("type","text/css");t.setAttribute("media","screen");if(!(h.ie&&h.win)&&typeof K.createTextNode!=b){t.appendChild(K.createTextNode(v+" {"+r+"}"))}u.appendChild(t);if(h.ie&&h.win&&typeof K.styleSheets!=b&&K.styleSheets.length>0){var q=K.styleSheets[K.styleSheets.length-1];if(typeof q.addRule==Q){q.addRule(v,r)}}}function W(t,q){var r=q?"visible":"hidden";if(e&&C(t)){C(t).style.visibility=r}else{V("#"+t,"visibility:"+r)}}function g(s){var r=/[\\\"<>\.;]/;var q=r.exec(s)!=null;return q?encodeURIComponent(s):s}var D=function(){if(h.ie&&h.win){window.attachEvent("onunload",function(){var w=d.length;for(var v=0;v<w;v++){d[v][0].detachEvent(d[v][1],d[v][2])}var t=i.length;for(var u=0;u<t;u++){X(i[u])}for(var r in h){h[r]=null}h=null;for(var q in swfobject){swfobject[q]=null}swfobject=null})}}();return{registerObject:function(u,q,t){if(!h.w3cdom||!u||!q){return }var r={};r.id=u;r.swfVersion=q;r.expressInstall=t?t:false;N[N.length]=r;W(u,false)},getObjectById:function(v){var q=null;if(h.w3cdom){var t=C(v);if(t){var u=t.getElementsByTagName(Q)[0];if(!u||(u&&typeof t.SetVariable!=b)){q=t}else{if(typeof u.SetVariable!=b){q=u}}}}return q},embedSWF:function(x,AE,AB,AD,q,w,r,z,AC){if(!h.w3cdom||!x||!AE||!AB||!AD||!q){return }AB+="";AD+="";if(c(q)){W(AE,false);var AA={};if(AC&&typeof AC===Q){for(var v in AC){if(AC[v]!=Object.prototype[v]){AA[v]=AC[v]}}}AA.data=x;AA.width=AB;AA.height=AD;var y={};if(z&&typeof z===Q){for(var u in z){if(z[u]!=Object.prototype[u]){y[u]=z[u]}}}if(r&&typeof r===Q){for(var t in r){if(r[t]!=Object.prototype[t]){if(typeof y.flashvars!=b){y.flashvars+="&"+t+"="+r[t]}else{y.flashvars=t+"="+r[t]}}}}f(function(){U(AA,y,AE);if(AA.id==AE){W(AE,true)}})}else{if(w&&!A&&c("6.0.65")&&(h.win||h.mac)){A=true;W(AE,false);f(function(){var AF={};AF.id=AF.altContentId=AE;AF.width=AB;AF.height=AD;AF.expressInstall=w;k(AF)})}}},getFlashPlayerVersion:function(){return{major:h.pv[0],minor:h.pv[1],release:h.pv[2]}},hasFlashPlayerVersion:c,createSWF:function(t,r,q){if(h.w3cdom){return U(t,r,q)}else{return undefined}},removeSWF:function(q){if(h.w3cdom){X(q)}},createCSS:function(r,q){if(h.w3cdom){V(r,q)}},addDomLoadEvent:f,addLoadEvent:R,getQueryParamValue:function(v){var u=K.location.search||K.location.hash;if(v==null){return g(u)}if(u){var t=u.substring(1).split("&");for(var r=0;r<t.length;r++){if(t[r].substring(0,t[r].indexOf("="))==v){return g(t[r].substring((t[r].indexOf("=")+1)))}}}return""},expressInstallCallback:function(){if(A&&M){var q=C(m);if(q){q.parentNode.replaceChild(M,q);if(l){W(l,true);if(h.ie&&h.win){M.style.display="block"}}M=null;l=null;A=false}}}}}()
+S	/home/www/tawc/vendor/plugins/open_flash_chart/assets/javascripts/swfobject.js	function S(){if(J.readyState=="complete"){J.parentNode.removeChild(J);E()}}function E(){if(e){return }if(h.ie&&h.win){var v=a("span");try{var u=K.getElementsByTagName("body")[0].appendChild(v);u.parentNode.removeChild(u)}catch(w){return }}e=true;if(Z){clearInterval(Z);Z=null}var q=o.length;for(var r=0;r<q;r++){o[r]()}}function f(q){if(e){q()}else{o[o.length]=q}}function R(r){if(typeof j.addEventListener!=b){j.addEventListener("load",r,false)}else{if(typeof K.addEventListener!=b){K.addEventListener("load",r,false)}else{if(typeof j.attachEvent!=b){I(j,"onload",r)}else{if(typeof j.onload=="function"){var q=j.onload;j.onload=function(){q();r()}}else{j.onload=r}}}}}function H(){var t=N.length;for(var q=0;q<t;q++){var u=N[q].id;if(h.pv[0]>0){var r=C(u);if(r){N[q].width=r.getAttribute("width")?r.getAttribute("width"):"0";N[q].height=r.getAttribute("height")?r.getAttribute("height"):"0";if(c(N[q].swfVersion)){if(h.webkit&&h.webkit<312){Y(r)}W(u,true)}else{if(N[q].expressInstall&&!A&&c("6.0.65")&&(h.win||h.mac)){k(N[q])}else{O(r)}}}}else{W(u,true)}}}function Y(t){var q=t.getElementsByTagName(Q)[0];if(q){var w=a("embed"),y=q.attributes;if(y){var v=y.length;for(var u=0;u<v;u++){if(y[u].nodeName=="DATA"){w.setAttribute("src",y[u].nodeValue)}else{w.setAttribute(y[u].nodeName,y[u].nodeValue)}}}var x=q.childNodes;if(x){var z=x.length;for(var r=0;r<z;r++){if(x[r].nodeType==1&&x[r].nodeName=="PARAM"){w.setAttribute(x[r].getAttribute("name"),x[r].getAttribute("value"))}}}t.parentNode.replaceChild(w,t)}}function k(w){A=true;var u=C(w.id);if(u){if(w.altContentId){var y=C(w.altContentId);if(y){M=y;l=w.altContentId}}else{M=G(u)}if(!(/%$/.test(w.width))&&parseInt(w.width,10)<310){w.width="310"}if(!(/%$/.test(w.height))&&parseInt(w.height,10)<137){w.height="137"}K.title=K.title.slice(0,47)+" - Flash Player Installation";var z=h.ie&&h.win?"ActiveX":"PlugIn",q=K.title,r="MMredirectURL="+j.location+"&MMplayerType="+z+"&MMdoctitle="+q,x=w.id;if(h.ie&&h.win&&u.readyState!=4){var t=a("div");x+="SWFObjectNew";t.setAttribute("id",x);u.parentNode.insertBefore(t,u);u.style.display="none";var v=function(){u.parentNode.removeChild(u)};I(j,"onload",v)}U({data:w.expressInstall,id:m,width:w.width,height:w.height},{flashvars:r},x)}}function O(t){if(h.ie&&h.win&&t.readyState!=4){var r=a("div");t.parentNode.insertBefore(r,t);r.parentNode.replaceChild(G(t),r);t.style.display="none";var q=function(){t.parentNode.removeChild(t)};I(j,"onload",q)}else{t.parentNode.replaceChild(G(t),t)}}function G(v){var u=a("div");if(h.win&&h.ie){u.innerHTML=v.innerHTML}else{var r=v.getElementsByTagName(Q)[0];if(r){var w=r.childNodes;if(w){var q=w.length;for(var t=0;t<q;t++){if(!(w[t].nodeType==1&&w[t].nodeName=="PARAM")&&!(w[t].nodeType==8)){u.appendChild(w[t].cloneNode(true))}}}}}return u}function U(AG,AE,t){var q,v=C(t);if(v){if(typeof AG.id==b){AG.id=t}if(h.ie&&h.win){var AF="";for(var AB in AG){if(AG[AB]!=Object.prototype[AB]){if(AB.toLowerCase()=="data"){AE.movie=AG[AB]}else{if(AB.toLowerCase()=="styleclass"){AF+=' class="'+AG[AB]+'"'}else{if(AB.toLowerCase()!="classid"){AF+=" "+AB+'="'+AG[AB]+'"'}}}}}var AD="";for(var AA in AE){if(AE[AA]!=Object.prototype[AA]){AD+='<param name="'+AA+'" value="'+AE[AA]+'" />'}}v.outerHTML='<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000"'+AF+">"+AD+"</object>";i[i.length]=AG.id;q=C(AG.id)}else{if(h.webkit&&h.webkit<312){var AC=a("embed");AC.setAttribute("type",P);for(var z in AG){if(AG[z]!=Object.prototype[z]){if(z.toLowerCase()=="data"){AC.setAttribute("src",AG[z])}else{if(z.toLowerCase()=="styleclass"){AC.setAttribute("class",AG[z])}else{if(z.toLowerCase()!="classid"){AC.setAttribute(z,AG[z])}}}}}for(var y in AE){if(AE[y]!=Object.prototype[y]){if(y.toLowerCase()!="movie"){AC.setAttribute(y,AE[y])}}}v.parentNode.replaceChild(AC,v);q=AC}else{var u=a(Q);u.setAttribute("type",P);for(var x in AG){if(AG[x]!=Object.prototype[x]){if(x.toLowerCase()=="styleclass"){u.setAttribute("class",AG[x])}else{if(x.toLowerCase()!="classid"){u.setAttribute(x,AG[x])}}}}for(var w in AE){if(AE[w]!=Object.prototype[w]&&w.toLowerCase()!="movie"){F(u,w,AE[w])}}v.parentNode.replaceChild(u,v);q=u}}}return q}function F(t,q,r){var u=a("param");u.setAttribute("name",q);u.setAttribute("value",r);t.appendChild(u)}function X(r){var q=C(r);if(q&&(q.nodeName=="OBJECT"||q.nodeName=="EMBED")){if(h.ie&&h.win){if(q.readyState==4){B(r)}else{j.attachEvent("onload",function(){B(r)})}}else{q.parentNode.removeChild(q)}}}function B(t){var r=C(t);if(r){for(var q in r){if(typeof r[q]=="function"){r[q]=null}}r.parentNode.removeChild(r)}}function C(t){var q=null;try{q=K.getElementById(t)}catch(r){}return q}function a(q){return K.createElement(q)}function I(t,q,r){t.attachEvent(q,r);d[d.length]=[t,q,r]}function c(t){var r=h.pv,q=t.split(".");q[0]=parseInt(q[0],10);q[1]=parseInt(q[1],10)||0;q[2]=parseInt(q[2],10)||0;return(r[0]>q[0]||(r[0]==q[0]&&r[1]>q[1])||(r[0]==q[0]&&r[1]==q[1]&&r[2]>=q[2]))?true:false}function V(v,r){if(h.ie&&h.mac){return }var u=K.getElementsByTagName("head")[0],t=a("style");t.setAttribute("type","text/css");t.setAttribute("media","screen");if(!(h.ie&&h.win)&&typeof K.createTextNode!=b){t.appendChild(K.createTextNode(v+" {"+r+"}"))}u.appendChild(t);if(h.ie&&h.win&&typeof K.styleSheets!=b&&K.styleSheets.length>0){var q=K.styleSheets[K.styleSheets.length-1];if(typeof q.addRule==Q){q.addRule(v,r)}}}function W(t,q){var r=q?"visible":"hidden";if(e&&C(t)){C(t).style.visibility=r}else{V("#"+t,"visibility:"+r)}}function g(s){var r=/[\\\"<>\.;]/;var q=r.exec(s)!=null;return q?encodeURIComponent(s):s}var D=function(){if(h.ie&&h.win){window.attachEvent("onunload",function(){var w=d.length;for(var v=0;v<w;v++){d[v][0].detachEvent(d[v][1],d[v][2])}var t=i.length;for(var u=0;u<t;u++){X(i[u])}for(var r in h){h[r]=null}h=null;for(var q in swfobject){swfobject[q]=null}swfobject=null})}}();return{registerObject:function(u,q,t){if(!h.w3cdom||!u||!q){return }var r={};r.id=u;r.swfVersion=q;r.expressInstall=t?t:false;N[N.length]=r;W(u,false)},getObjectById:function(v){var q=null;if(h.w3cdom){var t=C(v);if(t){var u=t.getElementsByTagName(Q)[0];if(!u||(u&&typeof t.SetVariable!=b)){q=t}else{if(typeof u.SetVariable!=b){q=u}}}}return q},embedSWF:function(x,AE,AB,AD,q,w,r,z,AC){if(!h.w3cdom||!x||!AE||!AB||!AD||!q){return }AB+="";AD+="";if(c(q)){W(AE,false);var AA={};if(AC&&typeof AC===Q){for(var v in AC){if(AC[v]!=Object.prototype[v]){AA[v]=AC[v]}}}AA.data=x;AA.width=AB;AA.height=AD;var y={};if(z&&typeof z===Q){for(var u in z){if(z[u]!=Object.prototype[u]){y[u]=z[u]}}}if(r&&typeof r===Q){for(var t in r){if(r[t]!=Object.prototype[t]){if(typeof y.flashvars!=b){y.flashvars+="&"+t+"="+r[t]}else{y.flashvars=t+"="+r[t]}}}}f(function(){U(AA,y,AE);if(AA.id==AE){W(AE,true)}})}else{if(w&&!A&&c("6.0.65")&&(h.win||h.mac)){A=true;W(AE,false);f(function(){var AF={};AF.id=AF.altContentId=AE;AF.width=AB;AF.height=AD;AF.expressInstall=w;k(AF)})}}},getFlashPlayerVersion:function(){return{major:h.pv[0],minor:h.pv[1],release:h.pv[2]}},hasFlashPlayerVersion:c,createSWF:function(t,r,q){if(h.w3cdom){return U(t,r,q)}else{return undefined}},removeSWF:function(q){if(h.w3cdom){X(q)}},createCSS:function(r,q){if(h.w3cdom){V(r,q)}},addDomLoadEvent:f,addLoadEvent:R,getQueryParamValue:function(v){var u=K.location.search||K.location.hash;if(v==null){return g(u)}if(u){var t=u.substring(1).split("&");for(var r=0;r<t.length;r++){if(t[r].substring(0,t[r].indexOf("="))==v){return g(t[r].substring((t[r].indexOf("=")+1)))}}}return""},expressInstallCallback:function(){if(A&&M){var q=C(m);if(q){q.parentNode.replaceChild(M,q);if(l){W(l,true);if(h.ie&&h.win){M.style.display="block"}}M=null;l=null;A=false}}}}}()
+SBox	/home/www/tawc/vendor/plugins/open_flash_chart/lib/open_flash_chart/sugar.rb	  class SBox 
+SHollowDot	/home/www/tawc/vendor/plugins/open_flash_chart/lib/open_flash_chart/sugar.rb	  class SHollowDot 
+SStar	/home/www/tawc/vendor/plugins/open_flash_chart/lib/open_flash_chart/sugar.rb	  class SStar 
+Scatter	/home/www/tawc/vendor/plugins/open_flash_chart/lib/open_flash_chart/scatter.rb	  class Scatter 
+ScatterLine	/home/www/tawc/vendor/plugins/open_flash_chart/lib/open_flash_chart/scatter_line.rb	  class ScatterLine 
+ScatterValue	/home/www/tawc/vendor/plugins/open_flash_chart/lib/open_flash_chart/scatter.rb	  class ScatterValue 
+Shape	/home/www/tawc/vendor/plugins/open_flash_chart/lib/open_flash_chart/shape.rb	  class Shape 
+ShapePoint	/home/www/tawc/vendor/plugins/open_flash_chart/lib/open_flash_chart/shape.rb	  class ShapePoint 
+SolidDot	/home/www/tawc/vendor/plugins/open_flash_chart/lib/open_flash_chart/dot_base.rb	  class SolidDot 
+Star	/home/www/tawc/vendor/plugins/open_flash_chart/lib/open_flash_chart/dot_base.rb	  class Star 
+StatController	/home/www/tawc/app/controllers/stat_controller.rb	class StatController 
+StatControllerTest	/home/www/tawc/test/functional/stat_controller_test.rb	class StatControllerTest 
+StatHelper	/home/www/tawc/app/helpers/stat_helper.rb	module StatHelper
+StatHelperTest	/home/www/tawc/test/unit/helpers/stat_helper_test.rb	class StatHelperTest 
+Str	/home/www/tawc/public/javascripts/prototype.js	function Str(key, holder, stack)
+Tawc	/home/www/tawc/config/application.rb	module Tawc
+TestCase	/home/www/tawc/test/test_helper.rb	class ActiveSupport::TestCase
+Title	/home/www/tawc/vendor/plugins/open_flash_chart/lib/open_flash_chart/title.rb	  class Title 
+Tooltip	/home/www/tawc/vendor/plugins/open_flash_chart/lib/open_flash_chart/tooltip.rb	  class Tooltip 
+Type	/home/www/tawc/public/javascripts/prototype.js	function Type(o)
+View	/home/www/tawc/vendor/plugins/open_flash_chart/lib/open_flash_chart/ofc_ajax.rb	  module View
+XAxis	/home/www/tawc/vendor/plugins/open_flash_chart/lib/open_flash_chart/x_axis.rb	  class XAxis 
+XAxisLabel	/home/www/tawc/vendor/plugins/open_flash_chart/lib/open_flash_chart/x_axis_label.rb	  class XAxisLabel 
+XAxisLabels	/home/www/tawc/vendor/plugins/open_flash_chart/lib/open_flash_chart/x_axis_labels.rb	  class XAxisLabels 
+XLegend	/home/www/tawc/vendor/plugins/open_flash_chart/lib/open_flash_chart/x_legend.rb	  class XLegend 
+YAxis	/home/www/tawc/vendor/plugins/open_flash_chart/lib/open_flash_chart/y_axis.rb	  class YAxis 
+YAxisBase	/home/www/tawc/vendor/plugins/open_flash_chart/lib/open_flash_chart/y_axis_base.rb	  class YAxisBase 
+YAxisLabel	/home/www/tawc/vendor/plugins/open_flash_chart/lib/open_flash_chart/y_axis_label.rb	  class YAxisLabel 
+YAxisLabels	/home/www/tawc/vendor/plugins/open_flash_chart/lib/open_flash_chart/y_axis_labels.rb	  class YAxisLabels 
+YAxisRight	/home/www/tawc/vendor/plugins/open_flash_chart/lib/open_flash_chart/y_axis_right.rb	  class YAxisRight 
+YLegend	/home/www/tawc/vendor/plugins/open_flash_chart/lib/open_flash_chart/y_legend.rb	  class YLegend 
+YLegendRight	/home/www/tawc/vendor/plugins/open_flash_chart/lib/open_flash_chart/y_legend_right.rb	  class YLegendRight 
+abs	/home/www/tawc/public/javascripts/prototype.js	function abs()
+absolutize	/home/www/tawc/public/javascripts/prototype.js	function absolutize(element)
+addMethods	/home/www/tawc/public/javascripts/prototype.js	function addMethods(source)
+addText	/home/www/tawc/public/javascripts/controls.js	function addText(mode, condition)
+add_animation	/home/www/tawc/vendor/plugins/open_flash_chart/lib/open_flash_chart/pie.rb	    def add_animation 
+add_animation	/home/www/tawc/vendor/plugins/open_flash_chart/lib/open_flash_chart/pie.rb	    def add_animation 
+add_element	/home/www/tawc/vendor/plugins/open_flash_chart/lib/open_flash_chart/base.rb	    def add_element(element)
+align_x_center	/home/www/tawc/vendor/plugins/open_flash_chart/lib/open_flash_chart/tags.rb	    def align_x_center
+align_x_left	/home/www/tawc/vendor/plugins/open_flash_chart/lib/open_flash_chart/tags.rb	    def align_x_left
+align_x_right	/home/www/tawc/vendor/plugins/open_flash_chart/lib/open_flash_chart/tags.rb	    def align_x_right
+align_y_above	/home/www/tawc/vendor/plugins/open_flash_chart/lib/open_flash_chart/tags.rb	    def align_y_above
+align_y_below	/home/www/tawc/vendor/plugins/open_flash_chart/lib/open_flash_chart/tags.rb	    def align_y_below
+align_y_center	/home/www/tawc/vendor/plugins/open_flash_chart/lib/open_flash_chart/tags.rb	    def align_y_center
+all	/home/www/tawc/public/javascripts/prototype.js	function all(iterator, context)
+any	/home/www/tawc/public/javascripts/prototype.js	function any(iterator, context)
+append_stack	/home/www/tawc/vendor/plugins/open_flash_chart/lib/open_flash_chart/bar_stack.rb	    alias_method :append_stack
+append_tag	/home/www/tawc/vendor/plugins/open_flash_chart/lib/open_flash_chart/tags.rb	    def append_tag(tag)
+append_value	/home/www/tawc/vendor/plugins/open_flash_chart/lib/open_flash_chart/base.rb	    def append_value(v)
+argumentNames	/home/www/tawc/public/javascripts/prototype.js	function argumentNames()
+attach_to_right_y_axis	/home/www/tawc/vendor/plugins/open_flash_chart/lib/open_flash_chart/bar_base.rb	    def attach_to_right_y_axis
+attach_to_right_y_axis	/home/www/tawc/vendor/plugins/open_flash_chart/lib/open_flash_chart/base.rb	    def attach_to_right_y_axis
+axis	/home/www/tawc/vendor/plugins/open_flash_chart/lib/open_flash_chart/linear_regression.rb	  def axis
+bind	/home/www/tawc/public/javascripts/prototype.js	function bind(context)
+bindAsEventListener	/home/www/tawc/public/javascripts/prototype.js	function bindAsEventListener(context)
+blank	/home/www/tawc/public/javascripts/prototype.js	function blank()
+camelize	/home/www/tawc/public/javascripts/prototype.js	function camelize()
+capitalize	/home/www/tawc/public/javascripts/prototype.js	function capitalize()
+ceil	/home/www/tawc/public/javascripts/prototype.js	function ceil()
+checkDeficiency	/home/www/tawc/public/javascripts/prototype.js	function checkDeficiency(tagName)
+checkReadyState	/home/www/tawc/public/javascripts/prototype.js	function checkReadyState()
+clear	/home/www/tawc/public/javascripts/prototype.js	function clear()
+clone	/home/www/tawc/public/javascripts/prototype.js	function clone()
+clone	/home/www/tawc/public/javascripts/prototype.js	function clone()
+clone	/home/www/tawc/public/javascripts/prototype.js	function clone(object)
+collect	/home/www/tawc/public/javascripts/prototype.js	function collect(iterator, context)
+compact	/home/www/tawc/public/javascripts/prototype.js	function compact()
+concat	/home/www/tawc/public/javascripts/prototype.js	function concat()
+copy	/home/www/tawc/public/javascripts/prototype.js	function copy(methods, destination, onlyIfAbsent)
+copy_files	/home/www/tawc/vendor/plugins/open_flash_chart/install.rb	  def copy_files(source_path, destination_path, directory)
+create	/home/www/tawc/public/javascripts/prototype.js	function create()
+cssNameFor	/home/www/tawc/public/javascripts/prototype.js	function cssNameFor(key)
+cumulativeOffset	/home/www/tawc/public/javascripts/prototype.js	function cumulativeOffset(element)
+cumulativeScrollOffset	/home/www/tawc/public/javascripts/prototype.js	function cumulativeScrollOffset(element)
+curry	/home/www/tawc/public/javascripts/prototype.js	function curry()
+dasherize	/home/www/tawc/public/javascripts/prototype.js	function dasherize()
+defer	/home/www/tawc/public/javascripts/prototype.js	function defer()
+define	/home/www/tawc/public/javascripts/prototype.js	function define(D)
+delay	/home/www/tawc/public/javascripts/prototype.js	function delay(timeout)
+detect	/home/www/tawc/public/javascripts/prototype.js	function detect(iterator, context)
+dirCheck	/home/www/tawc/public/javascripts/prototype.js	function dirCheck( dir, cur, doneName, checkSet, nodeCheck, isXML )
+dirNodeCheck	/home/www/tawc/public/javascripts/prototype.js	function dirNodeCheck( dir, cur, doneName, checkSet, nodeCheck, isXML )
+dispatch	/home/www/tawc/public/javascripts/effects.js	function dispatch(effect, eventName)
+each	/home/www/tawc/public/javascripts/prototype.js	function each(iterator)
+each	/home/www/tawc/public/javascripts/prototype.js	function each(iterator, context)
+eachSlice	/home/www/tawc/public/javascripts/prototype.js	function eachSlice(number, iterator, context)
+element	/home/www/tawc/public/javascripts/prototype.js	function element(event)
+empty	/home/www/tawc/public/javascripts/prototype.js	function empty()
+endsWith	/home/www/tawc/public/javascripts/prototype.js	function endsWith(pattern)
+escapeHTML	/home/www/tawc/public/javascripts/prototype.js	function escapeHTML()
+evalJSON	/home/www/tawc/public/javascripts/prototype.js	function evalJSON(sanitize)
+evalScripts	/home/www/tawc/public/javascripts/prototype.js	function evalScripts()
+extend	/home/www/tawc/public/javascripts/prototype.js	function extend(destination, source)
+extend	/home/www/tawc/public/javascripts/prototype.js	function extend(tagName)
+extendElementWith	/home/www/tawc/public/javascripts/prototype.js	function extendElementWith(element, methods)
+extendElements	/home/www/tawc/public/javascripts/prototype.js	function extendElements(elements)
+extractScripts	/home/www/tawc/public/javascripts/prototype.js	function extractScripts()
+f	/home/www/tawc/public/javascripts/swfobject.js	function f(q){if(e){q()}else{o[o.length]=q}}function R(r){if(typeof j.addEventListener!=b){j.addEventListener("load",r,false)}else{if(typeof K.addEventListener!=b){K.addEventListener("load",r,false)}else{if(typeof j.attachEvent!=b){I(j,"onload",r)}else{if(typeof j.onload=="function"){var q=j.onload;j.onload=function(){q();r()}}else{j.onload=r}}}}}function H(){var t=N.length;for(var q=0;q<t;q++){var u=N[q].id;if(h.pv[0]>0){var r=C(u);if(r){N[q].width=r.getAttribute("width")?r.getAttribute("width"):"0";N[q].height=r.getAttribute("height")?r.getAttribute("height"):"0";if(c(N[q].swfVersion)){if(h.webkit&&h.webkit<312){Y(r)}W(u,true)}else{if(N[q].expressInstall&&!A&&c("6.0.65")&&(h.win||h.mac)){k(N[q])}else{O(r)}}}}else{W(u,true)}}}function Y(t){var q=t.getElementsByTagName(Q)[0];if(q){var w=a("embed"),y=q.attributes;if(y){var v=y.length;for(var u=0;u<v;u++){if(y[u].nodeName=="DATA"){w.setAttribute("src",y[u].nodeValue)}else{w.setAttribute(y[u].nodeName,y[u].nodeValue)}}}var x=q.childNodes;if(x){var z=x.length;for(var r=0;r<z;r++){if(x[r].nodeType==1&&x[r].nodeName=="PARAM"){w.setAttribute(x[r].getAttribute("name"),x[r].getAttribute("value"))}}}t.parentNode.replaceChild(w,t)}}function k(w){A=true;var u=C(w.id);if(u){if(w.altContentId){var y=C(w.altContentId);if(y){M=y;l=w.altContentId}}else{M=G(u)}if(!(/%$/.test(w.width))&&parseInt(w.width,10)<310){w.width="310"}if(!(/%$/.test(w.height))&&parseInt(w.height,10)<137){w.height="137"}K.title=K.title.slice(0,47)+" - Flash Player Installation";var z=h.ie&&h.win?"ActiveX":"PlugIn",q=K.title,r="MMredirectURL="+j.location+"&MMplayerType="+z+"&MMdoctitle="+q,x=w.id;if(h.ie&&h.win&&u.readyState!=4){var t=a("div");x+="SWFObjectNew";t.setAttribute("id",x);u.parentNode.insertBefore(t,u);u.style.display="none";var v=function(){u.parentNode.removeChild(u)};I(j,"onload",v)}U({data:w.expressInstall,id:m,width:w.width,height:w.height},{flashvars:r},x)}}function O(t){if(h.ie&&h.win&&t.readyState!=4){var r=a("div");t.parentNode.insertBefore(r,t);r.parentNode.replaceChild(G(t),r);t.style.display="none";var q=function(){t.parentNode.removeChild(t)};I(j,"onload",q)}else{t.parentNode.replaceChild(G(t),t)}}function G(v){var u=a("div");if(h.win&&h.ie){u.innerHTML=v.innerHTML}else{var r=v.getElementsByTagName(Q)[0];if(r){var w=r.childNodes;if(w){var q=w.length;for(var t=0;t<q;t++){if(!(w[t].nodeType==1&&w[t].nodeName=="PARAM")&&!(w[t].nodeType==8)){u.appendChild(w[t].cloneNode(true))}}}}}return u}function U(AG,AE,t){var q,v=C(t);if(v){if(typeof AG.id==b){AG.id=t}if(h.ie&&h.win){var AF="";for(var AB in AG){if(AG[AB]!=Object.prototype[AB]){if(AB.toLowerCase()=="data"){AE.movie=AG[AB]}else{if(AB.toLowerCase()=="styleclass"){AF+=' class="'+AG[AB]+'"'}else{if(AB.toLowerCase()!="classid"){AF+=" "+AB+'="'+AG[AB]+'"'}}}}}var AD="";for(var AA in AE){if(AE[AA]!=Object.prototype[AA]){AD+='<param name="'+AA+'" value="'+AE[AA]+'" />'}}v.outerHTML='<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000"'+AF+">"+AD+"</object>";i[i.length]=AG.id;q=C(AG.id)}else{if(h.webkit&&h.webkit<312){var AC=a("embed");AC.setAttribute("type",P);for(var z in AG){if(AG[z]!=Object.prototype[z]){if(z.toLowerCase()=="data"){AC.setAttribute("src",AG[z])}else{if(z.toLowerCase()=="styleclass"){AC.setAttribute("class",AG[z])}else{if(z.toLowerCase()!="classid"){AC.setAttribute(z,AG[z])}}}}}for(var y in AE){if(AE[y]!=Object.prototype[y]){if(y.toLowerCase()!="movie"){AC.setAttribute(y,AE[y])}}}v.parentNode.replaceChild(AC,v);q=AC}else{var u=a(Q);u.setAttribute("type",P);for(var x in AG){if(AG[x]!=Object.prototype[x]){if(x.toLowerCase()=="styleclass"){u.setAttribute("class",AG[x])}else{if(x.toLowerCase()!="classid"){u.setAttribute(x,AG[x])}}}}for(var w in AE){if(AE[w]!=Object.prototype[w]&&w.toLowerCase()!="movie"){F(u,w,AE[w])}}v.parentNode.replaceChild(u,v);q=u}}}return q}function F(t,q,r){var u=a("param");u.setAttribute("name",q);u.setAttribute("value",r);t.appendChild(u)}function X(r){var q=C(r);if(q&&(q.nodeName=="OBJECT"||q.nodeName=="EMBED")){if(h.ie&&h.win){if(q.readyState==4){B(r)}else{j.attachEvent("onload",function(){B(r)})}}else{q.parentNode.removeChild(q)}}}function B(t){var r=C(t);if(r){for(var q in r){if(typeof r[q]=="function"){r[q]=null}}r.parentNode.removeChild(r)}}function C(t){var q=null;try{q=K.getElementById(t)}catch(r){}return q}function a(q){return K.createElement(q)}function I(t,q,r){t.attachEvent(q,r);d[d.length]=[t,q,r]}function c(t){var r=h.pv,q=t.split(".");q[0]=parseInt(q[0],10);q[1]=parseInt(q[1],10)||0;q[2]=parseInt(q[2],10)||0;return(r[0]>q[0]||(r[0]==q[0]&&r[1]>q[1])||(r[0]==q[0]&&r[1]==q[1]&&r[2]>=q[2]))?true:false}function V(v,r){if(h.ie&&h.mac){return }var u=K.getElementsByTagName("head")[0],t=a("style");t.setAttribute("type","text/css");t.setAttribute("media","screen");if(!(h.ie&&h.win)&&typeof K.createTextNode!=b){t.appendChild(K.createTextNode(v+" {"+r+"}"))}u.appendChild(t);if(h.ie&&h.win&&typeof K.styleSheets!=b&&K.styleSheets.length>0){var q=K.styleSheets[K.styleSheets.length-1];if(typeof q.addRule==Q){q.addRule(v,r)}}}function W(t,q){var r=q?"visible":"hidden";if(e&&C(t)){C(t).style.visibility=r}else{V("#"+t,"visibility:"+r)}}function g(s){var r=/[\\\"<>\.;]/;var q=r.exec(s)!=null;return q?encodeURIComponent(s):s}var D=function(){if(h.ie&&h.win){window.attachEvent("onunload",function(){var w=d.length;for(var v=0;v<w;v++){d[v][0].detachEvent(d[v][1],d[v][2])}var t=i.length;for(var u=0;u<t;u++){X(i[u])}for(var r in h){h[r]=null}h=null;for(var q in swfobject){swfobject[q]=null}swfobject=null})}}();return{registerObject:function(u,q,t){if(!h.w3cdom||!u||!q){return }var r={};r.id=u;r.swfVersion=q;r.expressInstall=t?t:false;N[N.length]=r;W(u,false)},getObjectById:function(v){var q=null;if(h.w3cdom){var t=C(v);if(t){var u=t.getElementsByTagName(Q)[0];if(!u||(u&&typeof t.SetVariable!=b)){q=t}else{if(typeof u.SetVariable!=b){q=u}}}}return q},embedSWF:function(x,AE,AB,AD,q,w,r,z,AC){if(!h.w3cdom||!x||!AE||!AB||!AD||!q){return }AB+="";AD+="";if(c(q)){W(AE,false);var AA={};if(AC&&typeof AC===Q){for(var v in AC){if(AC[v]!=Object.prototype[v]){AA[v]=AC[v]}}}AA.data=x;AA.width=AB;AA.height=AD;var y={};if(z&&typeof z===Q){for(var u in z){if(z[u]!=Object.prototype[u]){y[u]=z[u]}}}if(r&&typeof r===Q){for(var t in r){if(r[t]!=Object.prototype[t]){if(typeof y.flashvars!=b){y.flashvars+="&"+t+"="+r[t]}else{y.flashvars=t+"="+r[t]}}}}f(function(){U(AA,y,AE);if(AA.id==AE){W(AE,true)}})}else{if(w&&!A&&c("6.0.65")&&(h.win||h.mac)){A=true;W(AE,false);f(function(){var AF={};AF.id=AF.altContentId=AE;AF.width=AB;AF.height=AD;AF.expressInstall=w;k(AF)})}}},getFlashPlayerVersion:function(){return{major:h.pv[0],minor:h.pv[1],release:h.pv[2]}},hasFlashPlayerVersion:c,createSWF:function(t,r,q){if(h.w3cdom){return U(t,r,q)}else{return undefined}},removeSWF:function(q){if(h.w3cdom){X(q)}},createCSS:function(r,q){if(h.w3cdom){V(r,q)}},addDomLoadEvent:f,addLoadEvent:R,getQueryParamValue:function(v){var u=K.location.search||K.location.hash;if(v==null){return g(u)}if(u){var t=u.substring(1).split("&");for(var r=0;r<t.length;r++){if(t[r].substring(0,t[r].indexOf("="))==v){return g(t[r].substring((t[r].indexOf("=")+1)))}}}return""},expressInstallCallback:function(){if(A&&M){var q=C(m);if(q){q.parentNode.replaceChild(M,q);if(l){W(l,true);if(h.ie&&h.win){M.style.display="block"}}M=null;l=null;A=false}}}}}()
+f	/home/www/tawc/vendor/plugins/open_flash_chart/assets/javascripts/swfobject.js	function f(q){if(e){q()}else{o[o.length]=q}}function R(r){if(typeof j.addEventListener!=b){j.addEventListener("load",r,false)}else{if(typeof K.addEventListener!=b){K.addEventListener("load",r,false)}else{if(typeof j.attachEvent!=b){I(j,"onload",r)}else{if(typeof j.onload=="function"){var q=j.onload;j.onload=function(){q();r()}}else{j.onload=r}}}}}function H(){var t=N.length;for(var q=0;q<t;q++){var u=N[q].id;if(h.pv[0]>0){var r=C(u);if(r){N[q].width=r.getAttribute("width")?r.getAttribute("width"):"0";N[q].height=r.getAttribute("height")?r.getAttribute("height"):"0";if(c(N[q].swfVersion)){if(h.webkit&&h.webkit<312){Y(r)}W(u,true)}else{if(N[q].expressInstall&&!A&&c("6.0.65")&&(h.win||h.mac)){k(N[q])}else{O(r)}}}}else{W(u,true)}}}function Y(t){var q=t.getElementsByTagName(Q)[0];if(q){var w=a("embed"),y=q.attributes;if(y){var v=y.length;for(var u=0;u<v;u++){if(y[u].nodeName=="DATA"){w.setAttribute("src",y[u].nodeValue)}else{w.setAttribute(y[u].nodeName,y[u].nodeValue)}}}var x=q.childNodes;if(x){var z=x.length;for(var r=0;r<z;r++){if(x[r].nodeType==1&&x[r].nodeName=="PARAM"){w.setAttribute(x[r].getAttribute("name"),x[r].getAttribute("value"))}}}t.parentNode.replaceChild(w,t)}}function k(w){A=true;var u=C(w.id);if(u){if(w.altContentId){var y=C(w.altContentId);if(y){M=y;l=w.altContentId}}else{M=G(u)}if(!(/%$/.test(w.width))&&parseInt(w.width,10)<310){w.width="310"}if(!(/%$/.test(w.height))&&parseInt(w.height,10)<137){w.height="137"}K.title=K.title.slice(0,47)+" - Flash Player Installation";var z=h.ie&&h.win?"ActiveX":"PlugIn",q=K.title,r="MMredirectURL="+j.location+"&MMplayerType="+z+"&MMdoctitle="+q,x=w.id;if(h.ie&&h.win&&u.readyState!=4){var t=a("div");x+="SWFObjectNew";t.setAttribute("id",x);u.parentNode.insertBefore(t,u);u.style.display="none";var v=function(){u.parentNode.removeChild(u)};I(j,"onload",v)}U({data:w.expressInstall,id:m,width:w.width,height:w.height},{flashvars:r},x)}}function O(t){if(h.ie&&h.win&&t.readyState!=4){var r=a("div");t.parentNode.insertBefore(r,t);r.parentNode.replaceChild(G(t),r);t.style.display="none";var q=function(){t.parentNode.removeChild(t)};I(j,"onload",q)}else{t.parentNode.replaceChild(G(t),t)}}function G(v){var u=a("div");if(h.win&&h.ie){u.innerHTML=v.innerHTML}else{var r=v.getElementsByTagName(Q)[0];if(r){var w=r.childNodes;if(w){var q=w.length;for(var t=0;t<q;t++){if(!(w[t].nodeType==1&&w[t].nodeName=="PARAM")&&!(w[t].nodeType==8)){u.appendChild(w[t].cloneNode(true))}}}}}return u}function U(AG,AE,t){var q,v=C(t);if(v){if(typeof AG.id==b){AG.id=t}if(h.ie&&h.win){var AF="";for(var AB in AG){if(AG[AB]!=Object.prototype[AB]){if(AB.toLowerCase()=="data"){AE.movie=AG[AB]}else{if(AB.toLowerCase()=="styleclass"){AF+=' class="'+AG[AB]+'"'}else{if(AB.toLowerCase()!="classid"){AF+=" "+AB+'="'+AG[AB]+'"'}}}}}var AD="";for(var AA in AE){if(AE[AA]!=Object.prototype[AA]){AD+='<param name="'+AA+'" value="'+AE[AA]+'" />'}}v.outerHTML='<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000"'+AF+">"+AD+"</object>";i[i.length]=AG.id;q=C(AG.id)}else{if(h.webkit&&h.webkit<312){var AC=a("embed");AC.setAttribute("type",P);for(var z in AG){if(AG[z]!=Object.prototype[z]){if(z.toLowerCase()=="data"){AC.setAttribute("src",AG[z])}else{if(z.toLowerCase()=="styleclass"){AC.setAttribute("class",AG[z])}else{if(z.toLowerCase()!="classid"){AC.setAttribute(z,AG[z])}}}}}for(var y in AE){if(AE[y]!=Object.prototype[y]){if(y.toLowerCase()!="movie"){AC.setAttribute(y,AE[y])}}}v.parentNode.replaceChild(AC,v);q=AC}else{var u=a(Q);u.setAttribute("type",P);for(var x in AG){if(AG[x]!=Object.prototype[x]){if(x.toLowerCase()=="styleclass"){u.setAttribute("class",AG[x])}else{if(x.toLowerCase()!="classid"){u.setAttribute(x,AG[x])}}}}for(var w in AE){if(AE[w]!=Object.prototype[w]&&w.toLowerCase()!="movie"){F(u,w,AE[w])}}v.parentNode.replaceChild(u,v);q=u}}}return q}function F(t,q,r){var u=a("param");u.setAttribute("name",q);u.setAttribute("value",r);t.appendChild(u)}function X(r){var q=C(r);if(q&&(q.nodeName=="OBJECT"||q.nodeName=="EMBED")){if(h.ie&&h.win){if(q.readyState==4){B(r)}else{j.attachEvent("onload",function(){B(r)})}}else{q.parentNode.removeChild(q)}}}function B(t){var r=C(t);if(r){for(var q in r){if(typeof r[q]=="function"){r[q]=null}}r.parentNode.removeChild(r)}}function C(t){var q=null;try{q=K.getElementById(t)}catch(r){}return q}function a(q){return K.createElement(q)}function I(t,q,r){t.attachEvent(q,r);d[d.length]=[t,q,r]}function c(t){var r=h.pv,q=t.split(".");q[0]=parseInt(q[0],10);q[1]=parseInt(q[1],10)||0;q[2]=parseInt(q[2],10)||0;return(r[0]>q[0]||(r[0]==q[0]&&r[1]>q[1])||(r[0]==q[0]&&r[1]==q[1]&&r[2]>=q[2]))?true:false}function V(v,r){if(h.ie&&h.mac){return }var u=K.getElementsByTagName("head")[0],t=a("style");t.setAttribute("type","text/css");t.setAttribute("media","screen");if(!(h.ie&&h.win)&&typeof K.createTextNode!=b){t.appendChild(K.createTextNode(v+" {"+r+"}"))}u.appendChild(t);if(h.ie&&h.win&&typeof K.styleSheets!=b&&K.styleSheets.length>0){var q=K.styleSheets[K.styleSheets.length-1];if(typeof q.addRule==Q){q.addRule(v,r)}}}function W(t,q){var r=q?"visible":"hidden";if(e&&C(t)){C(t).style.visibility=r}else{V("#"+t,"visibility:"+r)}}function g(s){var r=/[\\\"<>\.;]/;var q=r.exec(s)!=null;return q?encodeURIComponent(s):s}var D=function(){if(h.ie&&h.win){window.attachEvent("onunload",function(){var w=d.length;for(var v=0;v<w;v++){d[v][0].detachEvent(d[v][1],d[v][2])}var t=i.length;for(var u=0;u<t;u++){X(i[u])}for(var r in h){h[r]=null}h=null;for(var q in swfobject){swfobject[q]=null}swfobject=null})}}();return{registerObject:function(u,q,t){if(!h.w3cdom||!u||!q){return }var r={};r.id=u;r.swfVersion=q;r.expressInstall=t?t:false;N[N.length]=r;W(u,false)},getObjectById:function(v){var q=null;if(h.w3cdom){var t=C(v);if(t){var u=t.getElementsByTagName(Q)[0];if(!u||(u&&typeof t.SetVariable!=b)){q=t}else{if(typeof u.SetVariable!=b){q=u}}}}return q},embedSWF:function(x,AE,AB,AD,q,w,r,z,AC){if(!h.w3cdom||!x||!AE||!AB||!AD||!q){return }AB+="";AD+="";if(c(q)){W(AE,false);var AA={};if(AC&&typeof AC===Q){for(var v in AC){if(AC[v]!=Object.prototype[v]){AA[v]=AC[v]}}}AA.data=x;AA.width=AB;AA.height=AD;var y={};if(z&&typeof z===Q){for(var u in z){if(z[u]!=Object.prototype[u]){y[u]=z[u]}}}if(r&&typeof r===Q){for(var t in r){if(r[t]!=Object.prototype[t]){if(typeof y.flashvars!=b){y.flashvars+="&"+t+"="+r[t]}else{y.flashvars=t+"="+r[t]}}}}f(function(){U(AA,y,AE);if(AA.id==AE){W(AE,true)}})}else{if(w&&!A&&c("6.0.65")&&(h.win||h.mac)){A=true;W(AE,false);f(function(){var AF={};AF.id=AF.altContentId=AE;AF.width=AB;AF.height=AD;AF.expressInstall=w;k(AF)})}}},getFlashPlayerVersion:function(){return{major:h.pv[0],minor:h.pv[1],release:h.pv[2]}},hasFlashPlayerVersion:c,createSWF:function(t,r,q){if(h.w3cdom){return U(t,r,q)}else{return undefined}},removeSWF:function(q){if(h.w3cdom){X(q)}},createCSS:function(r,q){if(h.w3cdom){V(r,q)}},addDomLoadEvent:f,addLoadEvent:R,getQueryParamValue:function(v){var u=K.location.search||K.location.hash;if(v==null){return g(u)}if(u){var t=u.substring(1).split("&");for(var r=0;r<t.length;r++){if(t[r].substring(0,t[r].indexOf("="))==v){return g(t[r].substring((t[r].indexOf("=")+1)))}}}return""},expressInstallCallback:function(){if(A&&M){var q=C(m);if(q){q.parentNode.replaceChild(M,q);if(l){W(l,true);if(h.ie&&h.win){M.style.display="block"}}M=null;l=null;A=false}}}}}()
+fallback	/home/www/tawc/public/javascripts/controls.js	function fallback(name, expr)
+find	/home/www/tawc/public/javascripts/prototype.js	function find(elements, expression, index)
+findAll	/home/www/tawc/public/javascripts/prototype.js	function findAll(iterator, context)
+findDOMClass	/home/www/tawc/public/javascripts/prototype.js	function findDOMClass(tagName)
+findElement	/home/www/tawc/public/javascripts/prototype.js	function findElement(event, expression)
+findSWF_method	/home/www/tawc/vendor/plugins/open_flash_chart/lib/open_flash_chart/ofc_ajax.rb	    def findSWF_method
+fire	/home/www/tawc/public/javascripts/prototype.js	function fire(element, eventName, memo, bubble)
+fireContentLoadedEvent	/home/www/tawc/public/javascripts/prototype.js	function fireContentLoadedEvent()
+first	/home/www/tawc/public/javascripts/prototype.js	function first()
+fit	/home/www/tawc/vendor/plugins/open_flash_chart/lib/open_flash_chart/linear_regression.rb	  def fit
+flatten	/home/www/tawc/public/javascripts/prototype.js	function flatten()
+floor	/home/www/tawc/public/javascripts/prototype.js	function floor()
+font	/home/www/tawc/vendor/plugins/open_flash_chart/lib/open_flash_chart/tags.rb	    def font(font, size)
+generate_graph	/home/www/tawc/app/controllers/stat_controller.rb		def generate_graph
+get	/home/www/tawc/public/javascripts/prototype.js	function get(key)
+getDimensions	/home/www/tawc/public/javascripts/prototype.js	function getDimensions(element)
+getLayout	/home/www/tawc/public/javascripts/prototype.js	function getLayout(element, preCompute)
+getOffsetParent	/home/www/tawc/public/javascripts/prototype.js	function getOffsetParent(element)
+getPixelValue	/home/www/tawc/public/javascripts/prototype.js	function getPixelValue(value, property)
+getRootElement	/home/www/tawc/public/javascripts/prototype.js	function getRootElement()
+get_html	/home/www/tawc/vendor/plugins/open_flash_chart/lib/open_flash_chart/open_flash_chart_object.rb	    def get_html(url, div_name, base, swf_file_name, width, height, protocol, obj_id)
+get_object_values	/home/www/tawc/vendor/plugins/open_flash_chart/lib/open_flash_chart/open_flash_chart_object.rb	    def get_object_values(url)
+grep	/home/www/tawc/public/javascripts/prototype.js	function grep(filter, iterator, context)
+gsub	/home/www/tawc/public/javascripts/prototype.js	function gsub(pattern, replacement)
+handleMethod	/home/www/tawc/public/javascripts/rails.js	function handleMethod(element)
+handleRemote	/home/www/tawc/public/javascripts/rails.js	function handleRemote(element)
+inGroupsOf	/home/www/tawc/public/javascripts/prototype.js	function inGroupsOf(number, fillWith)
+include	/home/www/tawc/public/javascripts/prototype.js	function include(object)
+include	/home/www/tawc/public/javascripts/prototype.js	function include(pattern)
+include	/home/www/tawc/public/javascripts/prototype.js	function include(value)
+index	/home/www/tawc/public/javascripts/prototype.js	function index(value)
+indexOf	/home/www/tawc/public/javascripts/prototype.js	function indexOf(item, i)
+initialize	/home/www/tawc/public/javascripts/prototype.js	function initialize(object)
+initialize	/home/www/tawc/public/javascripts/prototype.js	function initialize(start, end, exclusive)
+initialize	/home/www/tawc/vendor/plugins/open_flash_chart/lib/open_flash_chart/area_base.rb	    def initialize 
+initialize	/home/www/tawc/vendor/plugins/open_flash_chart/lib/open_flash_chart/area_hollow.rb	    def initialize 
+initialize	/home/www/tawc/vendor/plugins/open_flash_chart/lib/open_flash_chart/area_line.rb	    def initialize 
+initialize	/home/www/tawc/vendor/plugins/open_flash_chart/lib/open_flash_chart/arrow.rb	    def initialize(x, y, a, b, colour, barb_length=10)
+initialize	/home/www/tawc/vendor/plugins/open_flash_chart/lib/open_flash_chart/bar.rb	    def initialize 
+initialize	/home/www/tawc/vendor/plugins/open_flash_chart/lib/open_flash_chart/bar.rb	    def initialize( top, bottom=nil, args={} )
+initialize	/home/www/tawc/vendor/plugins/open_flash_chart/lib/open_flash_chart/bar_3d.rb	    def initialize 
+initialize	/home/www/tawc/vendor/plugins/open_flash_chart/lib/open_flash_chart/bar_3d.rb	    def initialize(top, args={})
+initialize	/home/www/tawc/vendor/plugins/open_flash_chart/lib/open_flash_chart/bar_filled.rb	    def initialize(colour=nil, outline_colour=nil, args={})
+initialize	/home/www/tawc/vendor/plugins/open_flash_chart/lib/open_flash_chart/bar_filled.rb	    def initialize(top, bottom=nil, args={})
+initialize	/home/www/tawc/vendor/plugins/open_flash_chart/lib/open_flash_chart/bar_glass.rb	    def initialize 
+initialize	/home/www/tawc/vendor/plugins/open_flash_chart/lib/open_flash_chart/bar_glass.rb	    def initialize 
+initialize	/home/www/tawc/vendor/plugins/open_flash_chart/lib/open_flash_chart/bar_glass.rb	    def initialize 
+initialize	/home/www/tawc/vendor/plugins/open_flash_chart/lib/open_flash_chart/bar_glass.rb	    def initialize 
+initialize	/home/www/tawc/vendor/plugins/open_flash_chart/lib/open_flash_chart/bar_glass.rb	    def initialize 
+initialize	/home/www/tawc/vendor/plugins/open_flash_chart/lib/open_flash_chart/bar_glass.rb	    def initialize 
+initialize	/home/www/tawc/vendor/plugins/open_flash_chart/lib/open_flash_chart/bar_glass.rb	    def initialize 
+initialize	/home/www/tawc/vendor/plugins/open_flash_chart/lib/open_flash_chart/bar_glass.rb	    def initialize(top, args={})
+initialize	/home/www/tawc/vendor/plugins/open_flash_chart/lib/open_flash_chart/bar_glass.rb	    def initialize(type, cascade, delay)
+initialize	/home/www/tawc/vendor/plugins/open_flash_chart/lib/open_flash_chart/bar_sketch.rb	    def initialize(colour, outline_colour, fun_factor, args = {} )
+initialize	/home/www/tawc/vendor/plugins/open_flash_chart/lib/open_flash_chart/bar_stack.rb	    def initialize 
+initialize	/home/www/tawc/vendor/plugins/open_flash_chart/lib/open_flash_chart/bar_stack.rb	    def initialize(colour, text, font_size, args={})
+initialize	/home/www/tawc/vendor/plugins/open_flash_chart/lib/open_flash_chart/bar_stack.rb	    def initialize(val,colour, args={})
+initialize	/home/www/tawc/vendor/plugins/open_flash_chart/lib/open_flash_chart/base.rb	    def initialize(args={})
+initialize	/home/www/tawc/vendor/plugins/open_flash_chart/lib/open_flash_chart/candle.rb	    def initialize( high, open, close, low, args={} )
+initialize	/home/www/tawc/vendor/plugins/open_flash_chart/lib/open_flash_chart/candle.rb	    def initialize(colour, negative_colour, args={})
+initialize	/home/www/tawc/vendor/plugins/open_flash_chart/lib/open_flash_chart/chart.rb	    def initialize( title=nil, args={})
+initialize	/home/www/tawc/vendor/plugins/open_flash_chart/lib/open_flash_chart/dot_base.rb	    def initialize 
+initialize	/home/www/tawc/vendor/plugins/open_flash_chart/lib/open_flash_chart/dot_base.rb	    def initialize(value=nil, args={})
+initialize	/home/www/tawc/vendor/plugins/open_flash_chart/lib/open_flash_chart/dot_base.rb	    def initialize(value=nil, args={})
+initialize	/home/www/tawc/vendor/plugins/open_flash_chart/lib/open_flash_chart/dot_base.rb	    def initialize(value=nil, args={})
+initialize	/home/www/tawc/vendor/plugins/open_flash_chart/lib/open_flash_chart/dot_base.rb	    def initialize(value=nil, args={})
+initialize	/home/www/tawc/vendor/plugins/open_flash_chart/lib/open_flash_chart/dot_base.rb	    def initialize(value=nil, args={})
+initialize	/home/www/tawc/vendor/plugins/open_flash_chart/lib/open_flash_chart/dot_base.rb	    def initialize(value=nil, args={})
+initialize	/home/www/tawc/vendor/plugins/open_flash_chart/lib/open_flash_chart/h_bar.rb	    def initialize(colour="#9933CC", args={})
+initialize	/home/www/tawc/vendor/plugins/open_flash_chart/lib/open_flash_chart/h_bar.rb	    def initialize(left,right=nil, args={})
+initialize	/home/www/tawc/vendor/plugins/open_flash_chart/lib/open_flash_chart/line.rb	    def initialize 
+initialize	/home/www/tawc/vendor/plugins/open_flash_chart/lib/open_flash_chart/line.rb	    def initialize(type, cascade, delay)
+initialize	/home/www/tawc/vendor/plugins/open_flash_chart/lib/open_flash_chart/line_base.rb	    def initialize 
+initialize	/home/www/tawc/vendor/plugins/open_flash_chart/lib/open_flash_chart/line_dot.rb	    def initialize 
+initialize	/home/www/tawc/vendor/plugins/open_flash_chart/lib/open_flash_chart/line_dot.rb	    def initialize(value, colour, args={})
+initialize	/home/www/tawc/vendor/plugins/open_flash_chart/lib/open_flash_chart/line_hollow.rb	    def initialize 
+initialize	/home/www/tawc/vendor/plugins/open_flash_chart/lib/open_flash_chart/line_style.rb	    def initialize 
+initialize	/home/www/tawc/vendor/plugins/open_flash_chart/lib/open_flash_chart/linear_regression.rb	  def initialize 
+initialize	/home/www/tawc/vendor/plugins/open_flash_chart/lib/open_flash_chart/menu.rb	    def initialize 
+initialize	/home/www/tawc/vendor/plugins/open_flash_chart/lib/open_flash_chart/menu.rb	    def initialize 
+initialize	/home/www/tawc/vendor/plugins/open_flash_chart/lib/open_flash_chart/menu.rb	    def initialize(text, javascript_function_name, args={})
+initialize	/home/www/tawc/vendor/plugins/open_flash_chart/lib/open_flash_chart/pie.rb	    def initialize 
+initialize	/home/www/tawc/vendor/plugins/open_flash_chart/lib/open_flash_chart/pie.rb	    def initialize 
+initialize	/home/www/tawc/vendor/plugins/open_flash_chart/lib/open_flash_chart/pie.rb	    def initialize 
+initialize	/home/www/tawc/vendor/plugins/open_flash_chart/lib/open_flash_chart/pie.rb	    def initialize(value, label, args={})
+initialize	/home/www/tawc/vendor/plugins/open_flash_chart/lib/open_flash_chart/radar_axis.rb	    def initialize(max, args={})
+initialize	/home/www/tawc/vendor/plugins/open_flash_chart/lib/open_flash_chart/radar_axis_labels.rb	    def initialize(labels, args={})
+initialize	/home/www/tawc/vendor/plugins/open_flash_chart/lib/open_flash_chart/radar_spoke_labels.rb	    def initialize(labels, args={})
+initialize	/home/www/tawc/vendor/plugins/open_flash_chart/lib/open_flash_chart/scatter.rb	    def initialize(colour, dot_style=nil, args={})
+initialize	/home/www/tawc/vendor/plugins/open_flash_chart/lib/open_flash_chart/scatter.rb	    def initialize(x,y,dot_size=-1, args={})
+initialize	/home/www/tawc/vendor/plugins/open_flash_chart/lib/open_flash_chart/scatter_line.rb	    def initialize(colour, width, args={})
+initialize	/home/www/tawc/vendor/plugins/open_flash_chart/lib/open_flash_chart/shape.rb	    def initialize(colour, args={})
+initialize	/home/www/tawc/vendor/plugins/open_flash_chart/lib/open_flash_chart/shape.rb	    def initialize(x, y, args={})
+initialize	/home/www/tawc/vendor/plugins/open_flash_chart/lib/open_flash_chart/sugar.rb	    def initialize(colour, size, args={})
+initialize	/home/www/tawc/vendor/plugins/open_flash_chart/lib/open_flash_chart/sugar.rb	    def initialize(colour, size, args={})
+initialize	/home/www/tawc/vendor/plugins/open_flash_chart/lib/open_flash_chart/sugar.rb	    def initialize(colour, size, args={})
+initialize	/home/www/tawc/vendor/plugins/open_flash_chart/lib/open_flash_chart/tags.rb	    def initialize 
+initialize	/home/www/tawc/vendor/plugins/open_flash_chart/lib/open_flash_chart/tags.rb	    def initialize(x,y, args={})
+initialize	/home/www/tawc/vendor/plugins/open_flash_chart/lib/open_flash_chart/title.rb	    def initialize(text='', args = {})
+initialize	/home/www/tawc/vendor/plugins/open_flash_chart/lib/open_flash_chart/x_axis_label.rb	    def initialize(text, colour, size, rotate, args={})
+initialize	/home/www/tawc/vendor/plugins/open_flash_chart/lib/open_flash_chart/x_legend.rb	    def initialize(text, args={})
+initialize	/home/www/tawc/vendor/plugins/open_flash_chart/lib/open_flash_chart/y_axis_label.rb	    def initialize(y, text)
+initialize	/home/www/tawc/vendor/plugins/open_flash_chart/lib/open_flash_chart/y_legend.rb	    def initialize(text = '', args={})
+inject	/home/www/tawc/public/javascripts/prototype.js	function inject(memo, iterator, context)
+inspect	/home/www/tawc/public/javascripts/prototype.js	function inspect()
+inspect	/home/www/tawc/public/javascripts/prototype.js	function inspect()
+inspect	/home/www/tawc/public/javascripts/prototype.js	function inspect()
+inspect	/home/www/tawc/public/javascripts/prototype.js	function inspect(object)
+inspect	/home/www/tawc/public/javascripts/prototype.js	function inspect(useDoubleQuotes)
+interpolate	/home/www/tawc/public/javascripts/prototype.js	function interpolate(object, pattern)
+intersect	/home/www/tawc/public/javascripts/prototype.js	function intersect(array)
+invoke	/home/www/tawc/public/javascripts/prototype.js	function invoke(method)
+isArray	/home/www/tawc/public/javascripts/prototype.js	function isArray(object)
+isBody	/home/www/tawc/public/javascripts/prototype.js	function isBody(element)
+isDetached	/home/www/tawc/public/javascripts/prototype.js	function isDetached(element)
+isDisplayed	/home/www/tawc/public/javascripts/prototype.js	function isDisplayed(element)
+isElement	/home/www/tawc/public/javascripts/prototype.js	function isElement(object)
+isEventSupported	/home/www/tawc/public/javascripts/rails.js	function isEventSupported(eventName)
+isForm	/home/www/tawc/public/javascripts/rails.js	function isForm(element)
+isFunction	/home/www/tawc/public/javascripts/prototype.js	function isFunction(object)
+isHash	/home/www/tawc/public/javascripts/prototype.js	function isHash(object)
+isInput	/home/www/tawc/public/javascripts/rails.js	function isInput(element)
+isJSON	/home/www/tawc/public/javascripts/prototype.js	function isJSON()
+isLeftClick	/home/www/tawc/public/javascripts/prototype.js	function isLeftClick(event)   { return _isButton(event, 0)
+isMiddleClick	/home/www/tawc/public/javascripts/prototype.js	function isMiddleClick(event) { return _isButton(event, 1)
+isNumber	/home/www/tawc/public/javascripts/prototype.js	function isNumber(object)
+isRightClick	/home/www/tawc/public/javascripts/prototype.js	function isRightClick(event)  { return _isButton(event, 2)
+isString	/home/www/tawc/public/javascripts/prototype.js	function isString(object)
+isUndefined	/home/www/tawc/public/javascripts/prototype.js	function isUndefined(object)
+iter	/home/www/tawc/public/javascripts/prototype.js	function iter(name)
+js_open_flash_chart_object	/home/www/tawc/vendor/plugins/open_flash_chart/lib/open_flash_chart/ofc_ajax.rb	    def js_open_flash_chart_object(div_name, width, height, base="/", options={})
+keys	/home/www/tawc/public/javascripts/prototype.js	function keys()
+keys	/home/www/tawc/public/javascripts/prototype.js	function keys(object)
+klass	/home/www/tawc/public/javascripts/prototype.js	function klass()
+labels	/home/www/tawc/vendor/plugins/open_flash_chart/lib/open_flash_chart/x_axis.rb	    alias_method :labels
+last	/home/www/tawc/public/javascripts/prototype.js	function last()
+lastIndexOf	/home/www/tawc/public/javascripts/prototype.js	function lastIndexOf(item, i)
+link_to_ofc_load	/home/www/tawc/vendor/plugins/open_flash_chart/lib/open_flash_chart/ofc_ajax.rb	    def link_to_ofc_load(link_text, div_name)
+link_to_remote_ofc_load	/home/www/tawc/vendor/plugins/open_flash_chart/lib/open_flash_chart/ofc_ajax.rb	    def link_to_remote_ofc_load(link_text, div_name, url)
+loop	/home/www/tawc/vendor/plugins/open_flash_chart/lib/open_flash_chart/line_base.rb	    def loop
+match	/home/www/tawc/public/javascripts/prototype.js	function match()
+match	/home/www/tawc/public/javascripts/prototype.js	function match(element, selector)
+max	/home/www/tawc/public/javascripts/prototype.js	function max(iterator, context)
+measure	/home/www/tawc/public/javascripts/prototype.js	function measure(element, property)
+merge	/home/www/tawc/public/javascripts/prototype.js	function merge(array, args)
+merge	/home/www/tawc/public/javascripts/prototype.js	function merge(object)
+method_missing	/home/www/tawc/vendor/plugins/open_flash_chart/lib/open_flash_chart/base.rb	    def method_missing(method_name, *args, &blk)
+methodize	/home/www/tawc/public/javascripts/prototype.js	function methodize()
+min	/home/www/tawc/public/javascripts/prototype.js	function min(iterator, context)
+observe	/home/www/tawc/public/javascripts/prototype.js	function observe(element, eventName, handler)
+offset	/home/www/tawc/vendor/plugins/open_flash_chart/lib/open_flash_chart/linear_regression.rb	  attr_accessor :slope, :offset
+on	/home/www/tawc/public/javascripts/prototype.js	function on(element, eventName, selector, callback)
+on_click	/home/www/tawc/vendor/plugins/open_flash_chart/lib/open_flash_chart/pie.rb	    def on_click(event)
+on_click	/home/www/tawc/vendor/plugins/open_flash_chart/lib/open_flash_chart/pie.rb	    def on_click(event)
+open_flash_chart_object	/home/www/tawc/vendor/plugins/open_flash_chart/lib/open_flash_chart/open_flash_chart_object.rb	    def open_flash_chart_object(width, height, url, use_swfobject=true, base="/", swf_file_name="open-flash-chart.swf")
+open_flash_chart_object_and_div_name	/home/www/tawc/vendor/plugins/open_flash_chart/lib/open_flash_chart/open_flash_chart_object.rb	    def open_flash_chart_object_and_div_name(width, height, url, use_swfobject=true, base="/", swf_file_name="open-flash-chart.swf")
+open_flash_chart_object_from_hash	/home/www/tawc/vendor/plugins/open_flash_chart/lib/open_flash_chart/open_flash_chart_object.rb	    def open_flash_chart_object_from_hash(url, options={})
+padding	/home/www/tawc/vendor/plugins/open_flash_chart/lib/open_flash_chart/tags.rb	    def padding(x,y)
+parseColor	/home/www/tawc/public/javascripts/effects.js	function parseColor(color)
+parseJSON	/home/www/tawc/public/javascripts/prototype.js	function parseJSON()
+partition	/home/www/tawc/public/javascripts/prototype.js	function partition(iterator, context)
+periodically_call_function	/home/www/tawc/vendor/plugins/open_flash_chart/lib/open_flash_chart/ofc_ajax.rb	    def periodically_call_function(function, options = {})
+periodically_call_to_remote_ofc_load	/home/www/tawc/vendor/plugins/open_flash_chart/lib/open_flash_chart/ofc_ajax.rb	    def periodically_call_to_remote_ofc_load(div_name, url, options={})
+pluck	/home/www/tawc/public/javascripts/prototype.js	function pluck(property)
+pointer	/home/www/tawc/public/javascripts/prototype.js	function pointer(event)
+pointerX	/home/www/tawc/public/javascripts/prototype.js	function pointerX(event)
+pointerY	/home/www/tawc/public/javascripts/prototype.js	function pointerY(event)
+pollDoScroll	/home/www/tawc/public/javascripts/prototype.js	function pollDoScroll()
+position=	/home/www/tawc/vendor/plugins/open_flash_chart/lib/open_flash_chart/dot_base.rb	    def position=(x, y)
+positionedOffset	/home/www/tawc/public/javascripts/prototype.js	function positionedOffset(element)
+predict	/home/www/tawc/vendor/plugins/open_flash_chart/lib/open_flash_chart/linear_regression.rb	  def predict( x )
+prepareReplacement	/home/www/tawc/public/javascripts/prototype.js	function prepareReplacement(replacement)
+purgeElement	/home/www/tawc/public/javascripts/prototype.js	function purgeElement(element)
+query	/home/www/tawc/app/controllers/stat_controller.rb	  def query
+reject	/home/www/tawc/public/javascripts/prototype.js	function reject(iterator, context)
+relativize	/home/www/tawc/public/javascripts/prototype.js	function relativize(element)
+render	/home/www/tawc/vendor/plugins/open_flash_chart/lib/open_flash_chart/base.rb	    def render
+result	/home/www/tawc/app/controllers/stat_controller.rb	  def result
+reverse	/home/www/tawc/public/javascripts/prototype.js	function reverse(inline)
+round	/home/www/tawc/public/javascripts/prototype.js	function round()
+save_as_image	/home/www/tawc/vendor/plugins/open_flash_chart/lib/open_flash_chart/ofc_ajax.rb	    def save_as_image(post_url, options={})
+scan	/home/www/tawc/public/javascripts/prototype.js	function scan(pattern, iterator)
+select	/home/www/tawc/public/javascripts/prototype.js	function select()
+select	/home/www/tawc/public/javascripts/prototype.js	function select(selector, scope)
+set	/home/www/tawc/public/javascripts/prototype.js	function set(key, value)
+set_3d	/home/www/tawc/vendor/plugins/open_flash_chart/lib/open_flash_chart/x_axis.rb	    def set_3d(v)
+set_animate	/home/www/tawc/vendor/plugins/open_flash_chart/lib/open_flash_chart/pie.rb	    def set_animate 
+set_background_colour	/home/www/tawc/vendor/plugins/open_flash_chart/lib/open_flash_chart/tooltip.rb	    def set_background_colour(bg)
+set_body_style	/home/www/tawc/vendor/plugins/open_flash_chart/lib/open_flash_chart/tooltip.rb	    def set_body_style(style)
+set_colours	/home/www/tawc/vendor/plugins/open_flash_chart/lib/open_flash_chart/base.rb	    def set_colours(colours, grid_colour)
+set_default_dot_style	/home/www/tawc/vendor/plugins/open_flash_chart/lib/open_flash_chart/line.rb	    def set_default_dot_style(style)
+set_fill_colour	/home/www/tawc/vendor/plugins/open_flash_chart/lib/open_flash_chart/area_base.rb	    def set_fill_colour(color)
+set_gradient_fill	/home/www/tawc/vendor/plugins/open_flash_chart/lib/open_flash_chart/pie.rb	    def set_gradient_fill
+set_hover	/home/www/tawc/vendor/plugins/open_flash_chart/lib/open_flash_chart/tooltip.rb	    def set_hover
+set_key	/home/www/tawc/vendor/plugins/open_flash_chart/lib/open_flash_chart/base.rb	    def set_key(text, size)
+set_label	/home/www/tawc/vendor/plugins/open_flash_chart/lib/open_flash_chart/pie.rb	    def set_label(label, label_color, font_size)
+set_labels	/home/www/tawc/vendor/plugins/open_flash_chart/lib/open_flash_chart/x_axis.rb	    def set_labels(labels)
+set_loop	/home/www/tawc/vendor/plugins/open_flash_chart/lib/open_flash_chart/area_base.rb	    def set_loop
+set_no_labels	/home/www/tawc/vendor/plugins/open_flash_chart/lib/open_flash_chart/pie.rb	    def set_no_labels
+set_offset	/home/www/tawc/vendor/plugins/open_flash_chart/lib/open_flash_chart/base.rb	    def set_offset(v)
+set_proximity	/home/www/tawc/vendor/plugins/open_flash_chart/lib/open_flash_chart/tooltip.rb	    def set_proximity
+set_range	/home/www/tawc/vendor/plugins/open_flash_chart/lib/open_flash_chart/base.rb	    def set_range(min,max,steps=1)
+set_step_horizonal	/home/www/tawc/vendor/plugins/open_flash_chart/lib/open_flash_chart/scatter_line.rb	    def set_step_horizonal
+set_step_vertical	/home/www/tawc/vendor/plugins/open_flash_chart/lib/open_flash_chart/scatter_line.rb	    def set_step_vertical
+set_title_style	/home/www/tawc/vendor/plugins/open_flash_chart/lib/open_flash_chart/tooltip.rb	    def set_title_style(style)
+set_tooltip	/home/www/tawc/vendor/plugins/open_flash_chart/lib/open_flash_chart/base.rb	    def set_tooltip(tip)
+set_values	/home/www/tawc/vendor/plugins/open_flash_chart/lib/open_flash_chart/h_bar.rb	    def set_values(v)
+set_vertical	/home/www/tawc/vendor/plugins/open_flash_chart/lib/open_flash_chart/x_axis_label.rb	    def set_vertical
+set_vertical	/home/www/tawc/vendor/plugins/open_flash_chart/lib/open_flash_chart/x_axis_labels.rb	    def set_vertical
+set_vertical	/home/www/tawc/vendor/plugins/open_flash_chart/lib/open_flash_chart/y_axis_base.rb	    def set_vertical
+set_vertical	/home/www/tawc/vendor/plugins/open_flash_chart/lib/open_flash_chart/y_axis_label.rb	    def set_vertical
+set_vertical	/home/www/tawc/vendor/plugins/open_flash_chart/lib/open_flash_chart/y_axis_labels.rb	    def set_vertical
+set_visible	/home/www/tawc/vendor/plugins/open_flash_chart/lib/open_flash_chart/x_axis_label.rb	    def set_visible
+size	/home/www/tawc/public/javascripts/prototype.js	function size()
+size	/home/www/tawc/public/javascripts/prototype.js	function size()
+size=	/home/www/tawc/vendor/plugins/open_flash_chart/lib/open_flash_chart/dot_base.rb	    def size=(size)
+slope	/home/www/tawc/vendor/plugins/open_flash_chart/lib/open_flash_chart/linear_regression.rb	  attr_accessor :slope, :offset
+sortBy	/home/www/tawc/public/javascripts/prototype.js	function sortBy(iterator, context)
+startsWith	/home/www/tawc/public/javascripts/prototype.js	function startsWith(pattern)
+stop	/home/www/tawc/public/javascripts/prototype.js	function stop(event)
+stopObserving	/home/www/tawc/public/javascripts/prototype.js	function stopObserving(element, eventName, handler)
+stringify	/home/www/tawc/public/javascripts/prototype.js	function stringify(object)
+strip	/home/www/tawc/public/javascripts/prototype.js	function strip()
+stripAlpha	/home/www/tawc/public/javascripts/prototype.js	function stripAlpha(filter)
+stripScripts	/home/www/tawc/public/javascripts/prototype.js	function stripScripts()
+stripTags	/home/www/tawc/public/javascripts/prototype.js	function stripTags()
+style	/home/www/tawc/vendor/plugins/open_flash_chart/lib/open_flash_chart/tags.rb	    def style(bold, underline, border, alpha)
+sub	/home/www/tawc/public/javascripts/prototype.js	function sub(pattern, replacement, count)
+subclass	/home/www/tawc/public/javascripts/prototype.js	function subclass()
+succ	/home/www/tawc/public/javascripts/prototype.js	function succ()
+succ	/home/www/tawc/public/javascripts/prototype.js	function succ()
+test_homepage	/home/www/tawc/test/performance/browsing_test.rb	  def test_homepage
+test_this_plugin	/home/www/tawc/vendor/plugins/open_flash_chart/test/open_flash_chart_test.rb	  def test_this_plugin
+times	/home/www/tawc/public/javascripts/prototype.js	function times(count)
+times	/home/www/tawc/public/javascripts/prototype.js	function times(iterator, context)
+toArray	/home/www/tawc/public/javascripts/prototype.js	function toArray()
+toArray	/home/www/tawc/public/javascripts/prototype.js	function toArray()
+toCSSPixels	/home/www/tawc/public/javascripts/prototype.js	function toCSSPixels(number)
+toColorPart	/home/www/tawc/public/javascripts/prototype.js	function toColorPart()
+toDecimal	/home/www/tawc/public/javascripts/prototype.js	function toDecimal(pctString)
+toHTML	/home/www/tawc/public/javascripts/prototype.js	function toHTML(object)
+toISOString	/home/www/tawc/public/javascripts/prototype.js	function toISOString()
+toJSON	/home/www/tawc/public/javascripts/prototype.js	function toJSON()
+toJSON	/home/www/tawc/public/javascripts/prototype.js	function toJSON(value)
+toObject	/home/www/tawc/public/javascripts/prototype.js	function toObject()
+toPaddedString	/home/www/tawc/public/javascripts/prototype.js	function toPaddedString(length, radix)
+toQueryPair	/home/www/tawc/public/javascripts/prototype.js	function toQueryPair(key, value)
+toQueryParams	/home/www/tawc/public/javascripts/prototype.js	function toQueryParams(separator)
+toQueryString	/home/www/tawc/public/javascripts/prototype.js	function toQueryString()
+toQueryString	/home/www/tawc/public/javascripts/prototype.js	function toQueryString(object)
+to_json2	/home/www/tawc/vendor/plugins/open_flash_chart/lib/open_flash_chart/base.rb	    def to_json2
+to_open_flash_chart_data	/home/www/tawc/vendor/plugins/open_flash_chart/lib/open_flash_chart/ofc_ajax.rb	    def to_open_flash_chart_data(id="in", options={})
+to_s	/home/www/tawc/vendor/plugins/open_flash_chart/lib/open_flash_chart/base.rb	    alias_method :to_s
+truncate	/home/www/tawc/public/javascripts/prototype.js	function truncate(length, truncation)
+underscore	/home/www/tawc/public/javascripts/prototype.js	function underscore()
+unescapeHTML	/home/www/tawc/public/javascripts/prototype.js	function unescapeHTML()
+unfilterJSON	/home/www/tawc/public/javascripts/prototype.js	function unfilterJSON(filter)
+uniq	/home/www/tawc/public/javascripts/prototype.js	function uniq(sorted)
+unset	/home/www/tawc/public/javascripts/prototype.js	function unset(key)
+update	/home/www/tawc/public/javascripts/prototype.js	function update(array, args)
+update	/home/www/tawc/public/javascripts/prototype.js	function update(element, content)
+update	/home/www/tawc/public/javascripts/prototype.js	function update(object)
+values	/home/www/tawc/public/javascripts/prototype.js	function values()
+values	/home/www/tawc/public/javascripts/prototype.js	function values(object)
+viewportOffset	/home/www/tawc/public/javascripts/prototype.js	function viewportOffset(forElement)
+without	/home/www/tawc/public/javascripts/prototype.js	function without()
+wrap	/home/www/tawc/public/javascripts/prototype.js	function wrap(wrapper)
+zip	/home/www/tawc/public/javascripts/prototype.js	function zip()
