@@ -1,0 +1,455 @@
+/*
+Design by Free CSS Templates
+http://www.freecsstemplates.org
+Released for free under a Creative Commons Attribution 2.5 License
+*/
+
+body {
+	padding: 5px;
+	background: #FFFFFF;
+  background-image:url('');
+  background-repeat:no-repeat;
+  background-position:right top;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	color: #3C3D3F;
+}
+
+h1, h2, h3 {
+	font-weight: normal;
+	color: #216b00;
+}
+
+h1 {
+	font-size: 2em;
+}
+
+h2 {
+	font-size: 1.6em;
+}
+
+h3 {
+	font-size: 1.2em;
+}
+
+blockquote {
+  background:LemonChiffon;
+  border:1px black;
+}
+
+p, ul, ol {
+	margin-top: 0;
+	line-height: 180%;
+}
+
+ul, ol {
+}
+
+a {
+	text-decoration: underline;
+	color: #216b00;
+}
+
+a:hover {
+	text-decoration: none;
+}
+
+img {
+  border:0;
+}
+
+#wrapper {
+	margin: 0 auto;
+	padding: 0;
+}
+
+/* Header */
+
+#header {
+	overflow: hidden;
+	width: 1000px;
+	height: 50px;
+	margin: 0px auto 20px auto;
+	background: url(/images/img01.jpg) no-repeat right top;
+}
+
+/* Logo */
+
+#logo {
+	float: left;
+	width: 300px;
+	margin: 0;
+	padding: 0;
+	color: #000000;
+}
+
+#logo h1, #logo p {
+}
+
+#logo h1 {
+	letter-spacing: -1px;
+	text-transform: lowercase;
+	font-size: 2.8em;
+	color: #0C0C0C;
+  margin:10px;
+}
+
+#logo h1 a {
+	color: #0C0C0C;
+}
+
+#logo h1 span {
+	color: #216b00;
+}
+
+#logo p {
+	margin: -5px 0px 0px 0px;
+	padding: 0px 0 0 px;
+	text-transform: lowercase;
+	font: normal 14px Georgia, "Times New Roman", Times, serif;
+	font-style: italic;
+	color: #45302C;
+} 
+
+#logo a {
+	border: none;
+	background: none;
+	text-decoration: none;
+	color: #45302C;
+}
+
+/* Default table style */
+.table-with-style
+{
+  width:600px;
+  border-collapse: collapse;
+	text-align: left;
+}
+.table-with-style th
+{    
+	font-weight: bold;
+	color: #216b00;
+	padding: 6px 8px;
+	border-bottom: 2px solid #216b00;
+}
+.table-with-style td
+{
+  border-bottom: 1px solid #BDBDBD;  
+	padding: 6px 8px;
+}
+.table-with-style tbody tr:hover td
+{  
+  background-color: #F5A9A9;
+}
+
+
+/* Menu */
+
+#menu {
+	float: right;
+	width: 700px;
+}
+
+#menu ul {
+	margin: 0px;
+	padding: 0px 0px 0px 15px;
+	list-style: none;
+}
+
+#menu li {
+	float: left;
+}
+
+#menu a {
+	display: block;
+	float: left;
+	height: 37px;
+	padding: 13px 29px 0px 29px;
+	text-decoration: none;
+	text-transform: uppercase;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #0C0C0C;
+}
+
+#menu a:hover, #menu .current_page_item a {
+	background: #216b00;
+	text-decoration: none;
+	color: #FFFFFF;
+}
+
+#menu .current_page_item a {
+	color: #FFFFFF;
+}
+
+/* Page */
+
+#page {
+	width: 1000px;
+	margin: 0 auto;
+	padding: 40px 0px 0px 0px;
+	border-top: 1px solid #BBBBBB;
+}
+
+
+/* Content */
+
+#content {
+	float: left;
+	width: 660px;
+}
+
+.post {
+	margin-bottom: 30px;
+	padding: 0px 0px;
+}
+
+.post .title {
+	height: 41px;
+	padding: 0px 0px 0px 0px;
+}
+
+.post .title a {
+	letter-spacing: -2px;
+	text-decoration: none;
+	text-transform: lowercase;
+	color: #414141;
+	border: none;
+}
+
+.post .entry {
+	padding: 10px 0px 20px 0px;
+	padding-bottom: 20px;
+	border-bottom: 1px solid #BBBBBB;
+	text-align: justify;
+}
+
+.post .meta {
+	overflow: hidden;
+	padding-top: 10px;
+}
+
+/* For the neuron show page */
+
+#content .neuron {
+  border: dotted 1px;
+  padding: 10px;
+  margin-bottom:20px;
+}
+
+#content .neuron h1, h2, h3 {
+  color: black;
+  font-weight:bold;
+}
+
+#content .neuron h1 {
+  font-weight:bold;
+	font-size: 1.6em;
+}
+
+#content .neuron h2 {
+	font-size: 1.2em;
+}
+
+#content .neuron h3 {
+	font-size: 1em;
+}
+
+#content .portfolio {
+  padding: 10px;
+  border: dotted 1px;
+}
+
+/* Sidebar */
+
+#sidebar {
+	float: right;
+	width: 300px;
+	margin: 0px;
+	padding: 0px 0px 0px 0px;
+}
+
+#sidebar ul {
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+
+#sidebar li {
+	margin: 0px 0px 0px 0px;
+	padding: 0;
+}
+
+#sidebar li ul {
+	margin: 0px;
+	padding-bottom: 20px;
+}
+
+#sidebar li li {
+	line-height: 35px;
+	border-bottom: 1px solid #BBBBBB;
+	border-left: none;
+	text-align: left;
+}
+
+#sidebar li li span {
+	display: block;
+	margin-top: -20px;
+	padding: 0;
+	font-size: 11px;
+	font-style: italic;
+}
+
+#sidebar li li a {
+	padding: 0px 0px 0px 0px;
+}
+
+#sidebar h2 {
+	height: 30px;
+	margin: 15px 0px 0px 0px;
+	padding: 4px 0px 0px 0px;
+	text-align: left;
+	text-transform: capitalize;
+	letter-spacing: -2px;
+	font-size: 2em;
+	color: #414141;
+}
+
+#sidebar p {
+	margin: 0 0px;
+	padding: 0px 5px 5px 5px;
+	text-align: justify;
+}
+
+#sidebar a {
+	border: none;
+	text-decoration: none;
+}
+
+#sidebar a:hover {
+	text-decoration: underline;
+}
+
+
+/* Footer */
+
+#footer {
+	width: 1000px;
+	height: 50px;
+	margin: 0 auto;
+	padding: 0px 0 15px 0;
+	border-top: 1px solid #BBBBBB;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+#footer p {
+	margin: 0;
+	padding: 20px 0px 0px 30px;
+	line-height: normal;
+	font-size: 10px;
+	text-transform: uppercase;
+	text-align: center;
+	color: #45302C;
+}
+
+#footer a {
+	color: #6B4A45;
+}
+
+/* Stylize form*/
+#stylized {
+font-size:16px;
+}
+
+#stylized h1 {}
+
+#stylized p {}
+
+#stylized label{
+display:block;
+font-weight:bold;
+text-align:right;
+width:140px;
+float:left;
+}
+
+#stylized .small{
+color:#666666;
+display:block;
+font-size:11px;
+font-weight:normal;
+text-align:right;
+width:140px;
+}
+
+#stylized input, textarea, select {
+font-size:16px;
+padding:4px 2px;
+border:solid 1px #216b00;
+margin:2px 0 20px 10px;
+}
+
+#stylized input, textarea {
+width:500px;
+}
+
+
+
+/* Styles for RoR mechanics */
+
+#notice, #error, #warning {
+  border: dashed 1px;
+  padding:8px;
+  margin-bottom:20px;
+}
+
+#notice {
+  color: green;
+  border-color: green;
+  background-color:#99FF99;
+}
+
+#error {
+  color: red;
+  border-color: red;
+  background-color:#FF9999;
+}
+
+#warning {
+  color: orange;
+  border-color: orange;
+  background-color:#FFCC66;
+}
+
+.field_with_errors {
+  padding: 2px;
+  background-color: red;
+  display: table;
+}
+
+#error_explanation {
+  width: 450px;
+  border: 2px solid red;
+  padding: 7px;
+  padding-bottom: 0;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  background-color: #f0f0f0;
+}
+
+#error_explanation h2 {
+  text-align: left;
+  font-weight: bold;
+  padding: 5px 5px 5px 15px;
+  font-size: 12px;
+  margin: -7px;
+  margin-bottom: 0px;
+  background-color: #c00;
+  color: #fff;
+}
+
+#error_explanation ul li {
+  font-size: 12px;
+  list-style: square;
+}
