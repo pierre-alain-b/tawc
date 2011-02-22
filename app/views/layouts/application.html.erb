@@ -22,6 +22,7 @@ Released for free under a Creative Commons Attribution 2.5 License
 			<div id="menu">
 				<ul>
 				<li <%= @tab=="query" ? 'class="current_page_item"'.html_safe : '' %> > <%= link_to "Submit a query", :controller =>"stat", :action => "query" %></li>
+				<li <%= @tab=="list" ? 'class="current_page_item"'.html_safe : '' %> > <%= link_to "List", :controller =>"stat", :action => "list" %></li>
 				<li <%= @tab=="about" ? 'class="current_page_item"'.html_safe : '' %> > <%= link_to "About", :controller =>"stat", :action => "about" %></li>
 				</ul>
 			</div>
@@ -41,24 +42,6 @@ Released for free under a Creative Commons Attribution 2.5 License
       
       <%= yield %>
     </div>
-
-
-<!--
-    <div id="sidebar">
-      <ul>        
-				<li>
-					<h2>Search</h2>
-					<div id="search" >
-            <%= form_tag "/query/search/", :method => 'get' do %>
-            <%= text_field_tag :search, params[:search], :id => "search-text", :size => "20" %>
-            <%= submit_tag "Search", :name => nil, :id => "search-submit", :value => "GO" %>
-            <% end %>
-					</div>
-					<div style="clear: both;">&nbsp;</div>
-				</li>
-			</ul>
-		</div>
-		<!-- end #sidebar -->
 
 
   </div>

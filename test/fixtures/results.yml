@@ -1,0 +1,11 @@
+# Read about fixtures at http://ar.rubyonrails.org/classes/Fixtures.html
+
+one:
+  query: MyString
+  years: MyText
+  hits: MyString
+
+two:
+  query: MyString
+  years: MyText
+  hits: MyString

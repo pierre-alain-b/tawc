@@ -1,0 +1,21 @@
+<h1>Listing results</h1>
+
+<table class="table-with-style">
+  <tr>
+    <th>Name</th>
+    <th>Date</th>
+    <th></th>
+    <th></th>
+    <th></th>
+  </tr>
+
+<% @results.each do |result| %>
+  <tr>
+    <td><%= result.id %></td>
+    <td><%= result.query %></td>
+    <td><%= result.years %></td>
+    <td><%= result.hits %></td>
+    <td><%= result.updated_at %></td>
+  </tr>
+<% end %>
+</table>

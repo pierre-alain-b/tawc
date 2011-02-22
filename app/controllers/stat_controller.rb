@@ -82,7 +82,12 @@ class StatController < ApplicationController
 	end
 
 	def about
-	@tab = "about"
+		@tab = "about"
+	end
+
+	def list
+    		@tab = "list"
+    		@results = Result.all
 	end
 
 protected
@@ -101,10 +106,13 @@ protected
 			years << year.to_s
 	    		hits << doc.search("//count").first.inner_html.to_i
 	    	end
+
+	t=Result.new(:query=>term.to_s, :years=>years.inspect.to_s, :hits=>hits.inspect.to_s)
+	t.save
+
 	results = Array.new
 	results = [years,hits]
 	end
-
 
 	private
 

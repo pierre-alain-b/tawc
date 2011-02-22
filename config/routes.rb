@@ -4,6 +4,7 @@ Tawc::Application.routes.draw do
   get "stat/about"
   get "stat/plot"
   get "stat/csv"
+  get "stat/list"
 
   # The priority is based upon order of creation:
   # first created -> highest priority.
